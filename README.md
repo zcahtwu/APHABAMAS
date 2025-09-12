@@ -1,1 +1,1 @@
-# MRI_motion_artefact_simulation_algorithms_evaluation
+# Assessing motion artifact simulation algorithms for high-resolution 3D MRI using analytical phantom
