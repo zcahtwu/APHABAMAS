@@ -1,1 +1,1 @@
-# Assessing motion artifact simulation algorithms for high-resolution 3D MRI using analytical phantom
+# APHABAMAS: An analytical phantom-based scheme for assessing the accuracy of high-resolution 3D MRI motion-artifact simulations
