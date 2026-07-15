@@ -1,0 +1,19 @@
+The motion tracking datasets (from https://brainmrimotion.org/) used for our experiments are as follows:
+
+Index 1: "BrainMRIMotionDB_2021-02-18_15_18_49447_Prospective-TracOline-Patient-5Y"
+
+Index 2: "BrainMRIMotionDB_2021-02-26_13_13_45700_Prospective-TracOline-Patient-8Y"
+
+Index 3: "BrainMRIMotionDB_2021-02-18_14_37_34483_Prospective-TracOline-Patient-8Y"
+
+Index 4: "BrainMRIMotionDB_2021-04-15_13_29_72620_Prospective-TracOline-Patient-4Y"
+
+Index 5: "BrainMRIMotionDB_2021-05-06_13_45_50298_Prospective-TracOline-Patient-7Y"
+
+Index 6: "BrainMRIMotionDB_2021-06-03_13_41_53795_Prospective-TracOline-Patient-6Y"
+
+Index 7: "BrainMRIMotionDB_2021-10-29_13_11_63503_Prospective-TracOline-Patient-6Y"
+
+Index 8: "BrainMRIMotionDB_2021-11-05_14_17_54888_Prospective-TracOline-Patient-4Y"
+
+The real motion-free scan used is 'sub-000103_acq-standard_T1w.nii.gz' from the MR-ART dataset.
