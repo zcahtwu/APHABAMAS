@@ -7,6 +7,7 @@ from utils.shepp_logan_motion import SheppLoganMotionSimulator
 from utils.image_based_simulator import MotionSimulation as ImageBasedSimulator
 from utils.k_space_based_simulator import MotionSimulation as KSpaceBasedSimulator
 from skimage.metrics import structural_similarity as ssim
+from numpy.fft import fftshift, fftn, ifftn
 
 # load the motion free digital phantom, if not found, simulate it first
 motion_free_digital_phantom_path = 'phantom_results/Motion_free_192_256_256_1mm_1mm_1mm.nii.gz'
@@ -73,8 +74,11 @@ for filename in tqdm(os.listdir(trajectory_folder)):
     # create the object
     test_object = SheppLoganMotionSimulator(matrix_size=matrix_size,delta_r=voxel_size,trajectory=trajectory,time_points=time_points * matrix_size[0] *matrix_size[1])
     # simulate the motion GT
-    GT_result = test_object.simulate(motion=True,magnitude=True)
-    # save it
+    GT_result = test_object.simulate(motion=True, magnitude=False)
+    GT_signal = fftshift(fftn(fftshift(GT_result)))
+    GT_result = np.abs(GT_result)
+    # save the signal as .npy and save image as nii.gz
+    np.save(f'{output_folder}/{traj_name}/GT_signal.npy', GT_signal)
     nib.save(nib.Nifti1Image(GT_result, affine_matrix), f'{output_folder}/{traj_name}/GT.nii.gz')
     #! ==================  the k-space based simulation ==================
     k_space_based_simulator = KSpaceBasedSimulator(image_path=motion_free_digital_phantom_path, trajectory=trajectory, time_points=time_points_k_space)
@@ -86,11 +90,19 @@ for filename in tqdm(os.listdir(trajectory_folder)):
     nib.save(nib.Nifti1Image(type1_result_adjusted, affine_matrix), f'{output_folder}/{traj_name}/type1_adjusted.nii.gz')
 
     # second type 2:
-    type2_result = k_space_based_simulator.simulate(nufft_type='type2')
+    type2_result = k_space_based_simulator.simulate(nufft_type='type2', magnitude=False)
+    type2_signal = fftshift(fftn(fftshift(type2_result)))
+    type2_result = np.abs(type2_result)
+    # save the signal as .npy and save image as nii.gz
+    np.save(f'{output_folder}/{traj_name}/type2_signal.npy', type2_signal)
     nib.save(nib.Nifti1Image(type2_result, affine_matrix), f'{output_folder}/{traj_name}/type2.nii.gz')
     #! ==================  the image based simulation ==================
     image_based_simulator = ImageBasedSimulator(image=motion_free_digital_phantom_path, trajectory=trajectory, time_points=time_points)
-    image_based_result = image_based_simulator.simulate()
+    image_based_result = image_based_simulator.simulate(magnitude=False)
+    image_based_signal = fftshift(fftn(fftshift(image_based_result)))
+    image_based_result = np.abs(image_based_result)
+    # save the signal as .npy
+    np.save(f'{output_folder}/{traj_name}/image_based_signal.npy', image_based_signal)
     nib.save(nib.Nifti1Image(image_based_result, affine_matrix), f'{output_folder}/{traj_name}/image_based.nii.gz')
 
     # calculate SSIM and RMSE with GT

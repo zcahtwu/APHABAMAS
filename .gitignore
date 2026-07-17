@@ -206,7 +206,8 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# excluding .json and .nii.gz file
+# excluding data files
 *.json
 *.nii.gz
 *.svg
+*.npy
