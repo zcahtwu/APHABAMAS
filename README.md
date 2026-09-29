@@ -2,4 +2,4 @@
 
 Code for all experiments and figure generation.
 
-### Note: 29th Sep 2026: Code for revision will be uploaded soon, ideally before 8th Oct.
+### Notes (29th Sep 2026): Code for revision will be uploaded soon, ideally before 8th Oct.
