@@ -1,9 +1,13 @@
 # Modify the img affine of the real scan to align the reference frame at img center
 import nibabel as nib
 import numpy as np
+from pathlib import Path
 
 # load the nii file
-niff_file = 'real_scan_results/sub-000103_acq-standard_T1w.nii.gz'
+script_dir = Path(__file__).resolve().parent
+results_dir = script_dir / 'real_motion_traces' / 'real_scan_results'
+results_dir.mkdir(parents=True, exist_ok=True)
+niff_file = results_dir / 'sub-000103_acq-standard_T1w.nii.gz'
 img = nib.load(niff_file)
 # define the header
 header = img.header
@@ -41,4 +45,4 @@ img.header['sform_code'] = 1
 img = nib.Nifti1Image(data, img.affine, img.header)
 
 # save the nii file
-nib.save(img,'real_scan_results/normalized_real_data.nii.gz')
+nib.save(img, results_dir / 'normalized_real_data.nii.gz')

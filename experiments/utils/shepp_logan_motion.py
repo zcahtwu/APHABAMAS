@@ -76,7 +76,7 @@ class SheppLoganMotionSimulator:
         
         # set up the predefined ellipsoid parameters, they will be scared by voxel size along z-axis
         if object_size_scaling is None:
-            self.object_size_scaling = self.matrix_size[-2]
+            self.object_size_scaling = self.matrix_size[-2] * self.dy
         else:
             self.object_size_scaling = object_size_scaling
         

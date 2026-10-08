@@ -1,0 +1,1081 @@
+motion_type,severity,repeat,metric,algorithm,value
+slow_drift,low,1,SSIM,Type 1,0.9828564310666094
+slow_drift,low,1,SSIM,Type 2,0.9828756301236561
+slow_drift,low,1,SSIM,Image-based,0.9850559655657951
+slow_drift,low,1,RMSD,Type 1,0.0176940911219891
+slow_drift,low,1,RMSD,Type 2,0.0175589161454779
+slow_drift,low,1,RMSD,Image-based,0.033394739988698
+slow_drift,low,2,SSIM,Type 1,0.9831119104642128
+slow_drift,low,2,SSIM,Type 2,0.9820189949196391
+slow_drift,low,2,SSIM,Image-based,0.9871629100053679
+slow_drift,low,2,RMSD,Type 1,0.0165625596330689
+slow_drift,low,2,RMSD,Type 2,0.016389864505422763
+slow_drift,low,2,RMSD,Image-based,0.03055155017290671
+slow_drift,low,3,SSIM,Type 1,0.9864787871338009
+slow_drift,low,3,SSIM,Type 2,0.9860450868358032
+slow_drift,low,3,SSIM,Image-based,0.9888535689759003
+slow_drift,low,3,RMSD,Type 1,0.014480952523401161
+slow_drift,low,3,RMSD,Type 2,0.014453602741439477
+slow_drift,low,3,RMSD,Image-based,0.026559963432916757
+slow_drift,low,4,SSIM,Type 1,0.9786145348017211
+slow_drift,low,4,SSIM,Type 2,0.9795959479452249
+slow_drift,low,4,SSIM,Image-based,0.980178598693345
+slow_drift,low,4,RMSD,Type 1,0.018844671957252562
+slow_drift,low,4,RMSD,Type 2,0.01867421660491274
+slow_drift,low,4,RMSD,Image-based,0.03737208885297933
+slow_drift,low,5,SSIM,Type 1,0.9832884766120825
+slow_drift,low,5,SSIM,Type 2,0.9844486224853624
+slow_drift,low,5,SSIM,Image-based,0.9868370730448827
+slow_drift,low,5,RMSD,Type 1,0.015869831601689248
+slow_drift,low,5,RMSD,Type 2,0.015741135984116507
+slow_drift,low,5,RMSD,Image-based,0.030893583541304007
+slow_drift,low,6,SSIM,Type 1,0.9798045964039452
+slow_drift,low,6,SSIM,Type 2,0.9815001435099743
+slow_drift,low,6,SSIM,Image-based,0.9839750308083823
+slow_drift,low,6,RMSD,Type 1,0.019479178779143614
+slow_drift,low,6,RMSD,Type 2,0.01911130501300473
+slow_drift,low,6,RMSD,Image-based,0.03472788481350615
+slow_drift,low,7,SSIM,Type 1,0.9842316226953088
+slow_drift,low,7,SSIM,Type 2,0.9845064987957614
+slow_drift,low,7,SSIM,Image-based,0.9855788411025687
+slow_drift,low,7,RMSD,Type 1,0.016311210535003052
+slow_drift,low,7,RMSD,Type 2,0.016241391860015667
+slow_drift,low,7,RMSD,Image-based,0.027834639412886768
+slow_drift,low,8,SSIM,Type 1,0.9815771869868447
+slow_drift,low,8,SSIM,Type 2,0.9819693334386275
+slow_drift,low,8,SSIM,Image-based,0.9845865707400075
+slow_drift,low,8,RMSD,Type 1,0.01741582041607741
+slow_drift,low,8,RMSD,Type 2,0.017264074254491554
+slow_drift,low,8,RMSD,Image-based,0.03418723847474992
+slow_drift,low,9,SSIM,Type 1,0.9783805638548605
+slow_drift,low,9,SSIM,Type 2,0.9791376343739516
+slow_drift,low,9,SSIM,Image-based,0.9809438849434462
+slow_drift,low,9,RMSD,Type 1,0.020452426747277267
+slow_drift,low,9,RMSD,Type 2,0.020302420698929634
+slow_drift,low,9,RMSD,Image-based,0.0403318195927335
+slow_drift,low,10,SSIM,Type 1,0.9831160003135714
+slow_drift,low,10,SSIM,Type 2,0.9842433364740787
+slow_drift,low,10,SSIM,Image-based,0.9868901828342341
+slow_drift,low,10,RMSD,Type 1,0.01742793223272564
+slow_drift,low,10,RMSD,Type 2,0.01727401505953225
+slow_drift,low,10,RMSD,Image-based,0.03050893018809076
+slow_drift,low,11,SSIM,Type 1,0.9856364822197241
+slow_drift,low,11,SSIM,Type 2,0.9849208089778473
+slow_drift,low,11,SSIM,Image-based,0.9884250905856165
+slow_drift,low,11,RMSD,Type 1,0.01572420750661134
+slow_drift,low,11,RMSD,Type 2,0.015668723414604475
+slow_drift,low,11,RMSD,Image-based,0.030208396848620027
+slow_drift,low,12,SSIM,Type 1,0.9816184298694962
+slow_drift,low,12,SSIM,Type 2,0.9823890315380134
+slow_drift,low,12,SSIM,Image-based,0.9849045303464767
+slow_drift,low,12,RMSD,Type 1,0.018619712537318357
+slow_drift,low,12,RMSD,Type 2,0.01827943142200127
+slow_drift,low,12,RMSD,Image-based,0.03351905729287803
+slow_drift,low,13,SSIM,Type 1,0.9849661390979286
+slow_drift,low,13,SSIM,Type 2,0.9852588121332497
+slow_drift,low,13,SSIM,Image-based,0.9859120588855391
+slow_drift,low,13,RMSD,Type 1,0.01695868924978373
+slow_drift,low,13,RMSD,Type 2,0.016734076009930515
+slow_drift,low,13,RMSD,Image-based,0.029869197223823498
+slow_drift,low,14,SSIM,Type 1,0.9761918948464033
+slow_drift,low,14,SSIM,Type 2,0.978190337174243
+slow_drift,low,14,SSIM,Image-based,0.981728226580499
+slow_drift,low,14,RMSD,Type 1,0.01980000615660872
+slow_drift,low,14,RMSD,Type 2,0.01970161327822808
+slow_drift,low,14,RMSD,Image-based,0.038126438258626084
+slow_drift,low,15,SSIM,Type 1,0.9788381984418884
+slow_drift,low,15,SSIM,Type 2,0.9790432252253336
+slow_drift,low,15,SSIM,Image-based,0.9821186855492383
+slow_drift,low,15,RMSD,Type 1,0.019429030242790232
+slow_drift,low,15,RMSD,Type 2,0.01929687590729214
+slow_drift,low,15,RMSD,Image-based,0.03599307431087905
+slow_drift,low,16,SSIM,Type 1,0.9832038762324419
+slow_drift,low,16,SSIM,Type 2,0.9841195163219217
+slow_drift,low,16,SSIM,Image-based,0.981797909425125
+slow_drift,low,16,RMSD,Type 1,0.017926302229453
+slow_drift,low,16,RMSD,Type 2,0.017799459789826826
+slow_drift,low,16,RMSD,Image-based,0.03253192046574826
+slow_drift,low,17,SSIM,Type 1,0.981714253777487
+slow_drift,low,17,SSIM,Type 2,0.9819064403395783
+slow_drift,low,17,SSIM,Image-based,0.9872027993439202
+slow_drift,low,17,RMSD,Type 1,0.015507656185787824
+slow_drift,low,17,RMSD,Type 2,0.015365119737932854
+slow_drift,low,17,RMSD,Image-based,0.030813318255062172
+slow_drift,low,18,SSIM,Type 1,0.9816483485458303
+slow_drift,low,18,SSIM,Type 2,0.9822112747909194
+slow_drift,low,18,SSIM,Image-based,0.9841663453998676
+slow_drift,low,18,RMSD,Type 1,0.01754970796648667
+slow_drift,low,18,RMSD,Type 2,0.017326486634037325
+slow_drift,low,18,RMSD,Image-based,0.034330302835918584
+slow_drift,low,19,SSIM,Type 1,0.9825654307785718
+slow_drift,low,19,SSIM,Type 2,0.9823950441147323
+slow_drift,low,19,SSIM,Image-based,0.9813291011052878
+slow_drift,low,19,RMSD,Type 1,0.017634987104999375
+slow_drift,low,19,RMSD,Type 2,0.017505624301629406
+slow_drift,low,19,RMSD,Image-based,0.03336255616522752
+slow_drift,low,20,SSIM,Type 1,0.9846732613625055
+slow_drift,low,20,SSIM,Type 2,0.9853701375386618
+slow_drift,low,20,SSIM,Image-based,0.9862756719295043
+slow_drift,low,20,RMSD,Type 1,0.01599767386640956
+slow_drift,low,20,RMSD,Type 2,0.01588458238723187
+slow_drift,low,20,RMSD,Image-based,0.027217735611968195
+slow_drift,medium,1,SSIM,Type 1,0.9664661449225117
+slow_drift,medium,1,SSIM,Type 2,0.9758355273063707
+slow_drift,medium,1,SSIM,Image-based,0.9751297805946466
+slow_drift,medium,1,RMSD,Type 1,0.022856119476462083
+slow_drift,medium,1,RMSD,Type 2,0.01868484639825832
+slow_drift,medium,1,RMSD,Image-based,0.03268336274403277
+slow_drift,medium,2,SSIM,Type 1,0.9711814566290234
+slow_drift,medium,2,SSIM,Type 2,0.9787508519901986
+slow_drift,medium,2,SSIM,Image-based,0.9765394098995201
+slow_drift,medium,2,RMSD,Type 1,0.02293826320380378
+slow_drift,medium,2,RMSD,Type 2,0.018907022351518792
+slow_drift,medium,2,RMSD,Image-based,0.03267600786535394
+slow_drift,medium,3,SSIM,Type 1,0.9790840869951991
+slow_drift,medium,3,SSIM,Type 2,0.9822305533311101
+slow_drift,medium,3,SSIM,Image-based,0.9800083297473974
+slow_drift,medium,3,RMSD,Type 1,0.019992202889144852
+slow_drift,medium,3,RMSD,Type 2,0.017506653692542624
+slow_drift,medium,3,RMSD,Image-based,0.031289390552391716
+slow_drift,medium,4,SSIM,Type 1,0.9584215945596127
+slow_drift,medium,4,SSIM,Type 2,0.977557995644413
+slow_drift,medium,4,SSIM,Image-based,0.9684206169218049
+slow_drift,medium,4,RMSD,Type 1,0.022464755688961738
+slow_drift,medium,4,RMSD,Type 2,0.018821556286640544
+slow_drift,medium,4,RMSD,Image-based,0.03368127471760645
+slow_drift,medium,5,SSIM,Type 1,0.9660150786840412
+slow_drift,medium,5,SSIM,Type 2,0.9757160012734657
+slow_drift,medium,5,SSIM,Image-based,0.9769576592185024
+slow_drift,medium,5,RMSD,Type 1,0.020062103129506712
+slow_drift,medium,5,RMSD,Type 2,0.017767817260002445
+slow_drift,medium,5,RMSD,Image-based,0.03307458037038644
+slow_drift,medium,6,SSIM,Type 1,0.9558505540407826
+slow_drift,medium,6,SSIM,Type 2,0.9753728649785791
+slow_drift,medium,6,SSIM,Image-based,0.9735348587872044
+slow_drift,medium,6,RMSD,Type 1,0.024540010524445644
+slow_drift,medium,6,RMSD,Type 2,0.019361029224780335
+slow_drift,medium,6,RMSD,Image-based,0.03394642640493316
+slow_drift,medium,7,SSIM,Type 1,0.9723612449277291
+slow_drift,medium,7,SSIM,Type 2,0.9804147006513715
+slow_drift,medium,7,SSIM,Image-based,0.9753517539112778
+slow_drift,medium,7,RMSD,Type 1,0.021002917797636435
+slow_drift,medium,7,RMSD,Type 2,0.018467155717119352
+slow_drift,medium,7,RMSD,Image-based,0.03229457252596541
+slow_drift,medium,8,SSIM,Type 1,0.9741958224558633
+slow_drift,medium,8,SSIM,Type 2,0.9812234090222061
+slow_drift,medium,8,SSIM,Image-based,0.9764677899646502
+slow_drift,medium,8,RMSD,Type 1,0.020285618769460053
+slow_drift,medium,8,RMSD,Type 2,0.017940463854260284
+slow_drift,medium,8,RMSD,Image-based,0.03290125302468707
+slow_drift,medium,9,SSIM,Type 1,0.9692463012175827
+slow_drift,medium,9,SSIM,Type 2,0.9798322639303901
+slow_drift,medium,9,SSIM,Image-based,0.9723069107710477
+slow_drift,medium,9,RMSD,Type 1,0.02341961350163759
+slow_drift,medium,9,RMSD,Type 2,0.01932644909793261
+slow_drift,medium,9,RMSD,Image-based,0.03444051677454905
+slow_drift,medium,10,SSIM,Type 1,0.9644352035884195
+slow_drift,medium,10,SSIM,Type 2,0.9785195281190295
+slow_drift,medium,10,SSIM,Image-based,0.9748397285213315
+slow_drift,medium,10,RMSD,Type 1,0.023031191312904178
+slow_drift,medium,10,RMSD,Type 2,0.018763264161714335
+slow_drift,medium,10,RMSD,Image-based,0.03253960775178991
+slow_drift,medium,11,SSIM,Type 1,0.9755666216714853
+slow_drift,medium,11,SSIM,Type 2,0.9789669000630835
+slow_drift,medium,11,SSIM,Image-based,0.9797153295495639
+slow_drift,medium,11,RMSD,Type 1,0.020877661678295436
+slow_drift,medium,11,RMSD,Type 2,0.018465311348522674
+slow_drift,medium,11,RMSD,Image-based,0.03400198568622345
+slow_drift,medium,12,SSIM,Type 1,0.9564815215751575
+slow_drift,medium,12,SSIM,Type 2,0.9759119996177027
+slow_drift,medium,12,SSIM,Image-based,0.9720990902380333
+slow_drift,medium,12,RMSD,Type 1,0.023848197356052994
+slow_drift,medium,12,RMSD,Type 2,0.01936245570866236
+slow_drift,medium,12,RMSD,Image-based,0.03430195543725655
+slow_drift,medium,13,SSIM,Type 1,0.9688962347712036
+slow_drift,medium,13,SSIM,Type 2,0.9802043030215515
+slow_drift,medium,13,SSIM,Image-based,0.9706107174122949
+slow_drift,medium,13,RMSD,Type 1,0.024213030714068804
+slow_drift,medium,13,RMSD,Type 2,0.01889035239486777
+slow_drift,medium,13,RMSD,Image-based,0.03441446997780934
+slow_drift,medium,14,SSIM,Type 1,0.9631637397447552
+slow_drift,medium,14,SSIM,Type 2,0.9781242220284437
+slow_drift,medium,14,SSIM,Image-based,0.9754651413970133
+slow_drift,medium,14,RMSD,Type 1,0.020720148209722428
+slow_drift,medium,14,RMSD,Type 2,0.01824168942940709
+slow_drift,medium,14,RMSD,Image-based,0.033612885883720946
+slow_drift,medium,15,SSIM,Type 1,0.9597992081606619
+slow_drift,medium,15,SSIM,Type 2,0.9741925081265093
+slow_drift,medium,15,SSIM,Image-based,0.9720635474137252
+slow_drift,medium,15,RMSD,Type 1,0.024272612911692186
+slow_drift,medium,15,RMSD,Type 2,0.020022642031035005
+slow_drift,medium,15,RMSD,Image-based,0.03548273870107268
+slow_drift,medium,16,SSIM,Type 1,0.9681823159859402
+slow_drift,medium,16,SSIM,Type 2,0.9802358037242465
+slow_drift,medium,16,SSIM,Image-based,0.9659352671511846
+slow_drift,medium,16,RMSD,Type 1,0.02432644904155762
+slow_drift,medium,16,RMSD,Type 2,0.02028855619584201
+slow_drift,medium,16,RMSD,Image-based,0.0357690034234731
+slow_drift,medium,17,SSIM,Type 1,0.9551994256344284
+slow_drift,medium,17,SSIM,Type 2,0.9709873549441074
+slow_drift,medium,17,SSIM,Image-based,0.9739242084695092
+slow_drift,medium,17,RMSD,Type 1,0.021830774577015346
+slow_drift,medium,17,RMSD,Type 2,0.019013830381259603
+slow_drift,medium,17,RMSD,Image-based,0.03458068558711874
+slow_drift,medium,18,SSIM,Type 1,0.9681238316370415
+slow_drift,medium,18,SSIM,Type 2,0.9798647744552227
+slow_drift,medium,18,SSIM,Image-based,0.9740904369891757
+slow_drift,medium,18,RMSD,Type 1,0.02139046298282604
+slow_drift,medium,18,RMSD,Type 2,0.01787422086640402
+slow_drift,medium,18,RMSD,Image-based,0.03211663476445721
+slow_drift,medium,19,SSIM,Type 1,0.9647720405670345
+slow_drift,medium,19,SSIM,Type 2,0.9786047755521082
+slow_drift,medium,19,SSIM,Image-based,0.9665198997824195
+slow_drift,medium,19,RMSD,Type 1,0.023031107832137115
+slow_drift,medium,19,RMSD,Type 2,0.018757287718988935
+slow_drift,medium,19,RMSD,Image-based,0.03393473651580312
+slow_drift,medium,20,SSIM,Type 1,0.968350103537798
+slow_drift,medium,20,SSIM,Type 2,0.9791168523446102
+slow_drift,medium,20,SSIM,Image-based,0.9709552514502754
+slow_drift,medium,20,RMSD,Type 1,0.02302565582923559
+slow_drift,medium,20,RMSD,Type 2,0.01895583503250479
+slow_drift,medium,20,RMSD,Image-based,0.033265388993623725
+slow_drift,high,1,SSIM,Type 1,0.9382740800667724
+slow_drift,high,1,SSIM,Type 2,0.9735093065972298
+slow_drift,high,1,SSIM,Image-based,0.96808755496008
+slow_drift,high,1,RMSD,Type 1,0.03688294517467358
+slow_drift,high,1,RMSD,Type 2,0.018872872762305835
+slow_drift,high,1,RMSD,Image-based,0.03304060405054599
+slow_drift,high,2,SSIM,Type 1,0.9471844846176881
+slow_drift,high,2,SSIM,Type 2,0.9787104044021587
+slow_drift,high,2,SSIM,Image-based,0.9698108105069798
+slow_drift,high,2,RMSD,Type 1,0.03715289310454435
+slow_drift,high,2,RMSD,Type 2,0.01929643189010791
+slow_drift,high,2,RMSD,Image-based,0.03356509282754225
+slow_drift,high,3,SSIM,Type 1,0.9642885655990621
+slow_drift,high,3,SSIM,Type 2,0.9803775239427204
+slow_drift,high,3,SSIM,Image-based,0.9720804968253904
+slow_drift,high,3,RMSD,Type 1,0.02851231304630805
+slow_drift,high,3,RMSD,Type 2,0.018707508115800225
+slow_drift,high,3,RMSD,Image-based,0.032889481772047605
+slow_drift,high,4,SSIM,Type 1,0.9178810687319929
+slow_drift,high,4,SSIM,Type 2,0.9746274533331617
+slow_drift,high,4,SSIM,Image-based,0.9572634197223298
+slow_drift,high,4,RMSD,Type 1,0.033004646801146044
+slow_drift,high,4,RMSD,Type 2,0.01966196406548191
+slow_drift,high,4,RMSD,Image-based,0.035051647674241196
+slow_drift,high,5,SSIM,Type 1,0.9415852845164903
+slow_drift,high,5,SSIM,Type 2,0.9726417214109245
+slow_drift,high,5,SSIM,Image-based,0.9704183192737355
+slow_drift,high,5,RMSD,Type 1,0.027650397430938414
+slow_drift,high,5,RMSD,Type 2,0.018459529861729343
+slow_drift,high,5,RMSD,Image-based,0.0329512943905844
+slow_drift,high,6,SSIM,Type 1,0.9174762316991246
+slow_drift,high,6,SSIM,Type 2,0.9729127396759921
+slow_drift,high,6,SSIM,Image-based,0.9652528115387581
+slow_drift,high,6,RMSD,Type 1,0.038292314684682575
+slow_drift,high,6,RMSD,Type 2,0.01923041437143445
+slow_drift,high,6,RMSD,Image-based,0.033624802050002546
+slow_drift,high,7,SSIM,Type 1,0.9458663379351709
+slow_drift,high,7,SSIM,Type 2,0.9785293406128377
+slow_drift,high,7,SSIM,Image-based,0.9673306828997018
+slow_drift,high,7,RMSD,Type 1,0.031729401414694026
+slow_drift,high,7,RMSD,Type 2,0.01924912826929544
+slow_drift,high,7,RMSD,Image-based,0.034517644062247645
+slow_drift,high,8,SSIM,Type 1,0.9506559429971353
+slow_drift,high,8,SSIM,Type 2,0.9788064434899467
+slow_drift,high,8,SSIM,Image-based,0.9665074912652541
+slow_drift,high,8,RMSD,Type 1,0.02806817996470653
+slow_drift,high,8,RMSD,Type 2,0.018850218269951036
+slow_drift,high,8,RMSD,Image-based,0.033600784339176244
+slow_drift,high,9,SSIM,Type 1,0.9389496436301001
+slow_drift,high,9,SSIM,Type 2,0.9768545988783267
+slow_drift,high,9,SSIM,Image-based,0.9631237612560991
+slow_drift,high,9,RMSD,Type 1,0.03594791074568791
+slow_drift,high,9,RMSD,Type 2,0.01957070629988741
+slow_drift,high,9,RMSD,Image-based,0.0346414146328606
+slow_drift,high,10,SSIM,Type 1,0.9335810554534433
+slow_drift,high,10,SSIM,Type 2,0.9760711586343486
+slow_drift,high,10,SSIM,Image-based,0.964370472068635
+slow_drift,high,10,RMSD,Type 1,0.03519132121710848
+slow_drift,high,10,RMSD,Type 2,0.019424315710424623
+slow_drift,high,10,RMSD,Image-based,0.03415242083947281
+slow_drift,high,11,SSIM,Type 1,0.9598900110564599
+slow_drift,high,11,SSIM,Type 2,0.9756818066959064
+slow_drift,high,11,SSIM,Image-based,0.9733537111577842
+slow_drift,high,11,RMSD,Type 1,0.031107567928097744
+slow_drift,high,11,RMSD,Type 2,0.019112202030431548
+slow_drift,high,11,RMSD,Image-based,0.034342022455907596
+slow_drift,high,12,SSIM,Type 1,0.9206123415422643
+slow_drift,high,12,SSIM,Type 2,0.9743442728251334
+slow_drift,high,12,SSIM,Image-based,0.9630265953428075
+slow_drift,high,12,RMSD,Type 1,0.034837848826777235
+slow_drift,high,12,RMSD,Type 2,0.019366506377802614
+slow_drift,high,12,RMSD,Image-based,0.034003526633624735
+slow_drift,high,13,SSIM,Type 1,0.9337863994997048
+slow_drift,high,13,SSIM,Type 2,0.9774094625649369
+slow_drift,high,13,SSIM,Image-based,0.9582122174073286
+slow_drift,high,13,RMSD,Type 1,0.038050693592884974
+slow_drift,high,13,RMSD,Type 2,0.019509302756733574
+slow_drift,high,13,RMSD,Image-based,0.034751978260516785
+slow_drift,high,14,SSIM,Type 1,0.9274580629058518
+slow_drift,high,14,SSIM,Type 2,0.9746035350795607
+slow_drift,high,14,SSIM,Image-based,0.9672038610077264
+slow_drift,high,14,RMSD,Type 1,0.028887079293722893
+slow_drift,high,14,RMSD,Type 2,0.018761854000974774
+slow_drift,high,14,RMSD,Image-based,0.0332906898737878
+slow_drift,high,15,SSIM,Type 1,0.9241580330075151
+slow_drift,high,15,SSIM,Type 2,0.9712107221950338
+slow_drift,high,15,SSIM,Image-based,0.9636710512833717
+slow_drift,high,15,RMSD,Type 1,0.03872657119730908
+slow_drift,high,15,RMSD,Type 2,0.020351805714596365
+slow_drift,high,15,RMSD,Image-based,0.03589709673168634
+slow_drift,high,16,SSIM,Type 1,0.9284429757417368
+slow_drift,high,16,SSIM,Type 2,0.9784073531032453
+slow_drift,high,16,SSIM,Image-based,0.9540387703284334
+slow_drift,high,16,RMSD,Type 1,0.0355163390255139
+slow_drift,high,16,RMSD,Type 2,0.020352512847295976
+slow_drift,high,16,RMSD,Image-based,0.036011336838700066
+slow_drift,high,17,SSIM,Type 1,0.9250362665613763
+slow_drift,high,17,SSIM,Type 2,0.9679663774025379
+slow_drift,high,17,SSIM,Image-based,0.9667456526211055
+slow_drift,high,17,RMSD,Type 1,0.02891329558691448
+slow_drift,high,17,RMSD,Type 2,0.019139756223859168
+slow_drift,high,17,RMSD,Image-based,0.034053151988341114
+slow_drift,high,18,SSIM,Type 1,0.9339308810115631
+slow_drift,high,18,SSIM,Type 2,0.9771546041636592
+slow_drift,high,18,SSIM,Image-based,0.964297990883279
+slow_drift,high,18,RMSD,Type 1,0.03188034317095077
+slow_drift,high,18,RMSD,Type 2,0.018289146376716216
+slow_drift,high,18,RMSD,Image-based,0.03223586725202242
+slow_drift,high,19,SSIM,Type 1,0.9293849659595593
+slow_drift,high,19,SSIM,Type 2,0.9770441280030913
+slow_drift,high,19,SSIM,Image-based,0.9568977839280943
+slow_drift,high,19,RMSD,Type 1,0.0344868535114311
+slow_drift,high,19,RMSD,Type 2,0.019251263101644787
+slow_drift,high,19,RMSD,Image-based,0.03449331461791511
+slow_drift,high,20,SSIM,Type 1,0.9349239018358104
+slow_drift,high,20,SSIM,Type 2,0.9783892617387804
+slow_drift,high,20,SSIM,Image-based,0.9612784899418806
+slow_drift,high,20,RMSD,Type 1,0.03573366038726969
+slow_drift,high,20,RMSD,Type 2,0.018950241202707125
+slow_drift,high,20,RMSD,Image-based,0.033489110188499614
+spikes,low,1,SSIM,Type 1,0.9642825881832503
+spikes,low,1,SSIM,Type 2,0.9958969111273163
+spikes,low,1,SSIM,Image-based,0.9928167408849724
+spikes,low,1,RMSD,Type 1,0.012992366462495327
+spikes,low,1,RMSD,Type 2,0.005135496255952419
+spikes,low,1,RMSD,Image-based,0.005713180070259478
+spikes,low,2,SSIM,Type 1,0.9783028451551308
+spikes,low,2,SSIM,Type 2,0.997483378736338
+spikes,low,2,SSIM,Image-based,0.9962779228295695
+spikes,low,2,RMSD,Type 1,0.008507766356430904
+spikes,low,2,RMSD,Type 2,0.003585369173389853
+spikes,low,2,RMSD,Image-based,0.003915929226906881
+spikes,low,3,SSIM,Type 1,0.9480765119385884
+spikes,low,3,SSIM,Type 2,0.9924823843489624
+spikes,low,3,SSIM,Image-based,0.9906906144941504
+spikes,low,3,RMSD,Type 1,0.02306957971753136
+spikes,low,3,RMSD,Type 2,0.009731479563016029
+spikes,low,3,RMSD,Image-based,0.010020076703613151
+spikes,low,4,SSIM,Type 1,0.9734006853110757
+spikes,low,4,SSIM,Type 2,0.9970659644413665
+spikes,low,4,SSIM,Image-based,0.995206848430557
+spikes,low,4,RMSD,Type 1,0.010272876198438839
+spikes,low,4,RMSD,Type 2,0.004083804684516009
+spikes,low,4,RMSD,Image-based,0.004557375438956552
+spikes,low,5,SSIM,Type 1,0.9869539016601182
+spikes,low,5,SSIM,Type 2,0.9979577275419509
+spikes,low,5,SSIM,Image-based,0.9963352097582575
+spikes,low,5,RMSD,Type 1,0.00751778610795697
+spikes,low,5,RMSD,Type 2,0.0034773825845897935
+spikes,low,5,RMSD,Image-based,0.003801443920785056
+spikes,low,6,SSIM,Type 1,0.9813442086079482
+spikes,low,6,SSIM,Type 2,0.9972096969398053
+spikes,low,6,SSIM,Image-based,0.9948551545337018
+spikes,low,6,RMSD,Type 1,0.008501079546607206
+spikes,low,6,RMSD,Type 2,0.0038169210692388083
+spikes,low,6,RMSD,Image-based,0.004322522163875565
+spikes,low,7,SSIM,Type 1,0.9881270476705395
+spikes,low,7,SSIM,Type 2,0.9977424604411372
+spikes,low,7,SSIM,Image-based,0.9957927477417029
+spikes,low,7,RMSD,Type 1,0.007126999434813551
+spikes,low,7,RMSD,Type 2,0.003635125949915315
+spikes,low,7,RMSD,Image-based,0.004069211517720903
+spikes,low,8,SSIM,Type 1,0.9639814540988432
+spikes,low,8,SSIM,Type 2,0.9958137224029207
+spikes,low,8,SSIM,Image-based,0.9928752006238881
+spikes,low,8,RMSD,Type 1,0.012975208621857654
+spikes,low,8,RMSD,Type 2,0.005127608334808648
+spikes,low,8,RMSD,Image-based,0.005648951601365154
+spikes,low,9,SSIM,Type 1,0.9713639205347159
+spikes,low,9,SSIM,Type 2,0.9964751902441717
+spikes,low,9,SSIM,Image-based,0.993087229090218
+spikes,low,9,RMSD,Type 1,0.01132866522604962
+spikes,low,9,RMSD,Type 2,0.004789800795654128
+spikes,low,9,RMSD,Image-based,0.005402946853311719
+spikes,low,10,SSIM,Type 1,0.9926350804382911
+spikes,low,10,SSIM,Type 2,0.9986652005073469
+spikes,low,10,SSIM,Image-based,0.9977907340368015
+spikes,low,10,RMSD,Type 1,0.00538368026365453
+spikes,low,10,RMSD,Type 2,0.0024716720417474985
+spikes,low,10,RMSD,Image-based,0.0029325774598343295
+spikes,low,11,SSIM,Type 1,0.9843543829363075
+spikes,low,11,SSIM,Type 2,0.9974505917838957
+spikes,low,11,SSIM,Image-based,0.994733883785538
+spikes,low,11,RMSD,Type 1,0.008207230638643839
+spikes,low,11,RMSD,Type 2,0.003840619183890287
+spikes,low,11,RMSD,Image-based,0.004390820517061699
+spikes,low,12,SSIM,Type 1,0.975616534959045
+spikes,low,12,SSIM,Type 2,0.9973019942073218
+spikes,low,12,SSIM,Image-based,0.9953159065495433
+spikes,low,12,RMSD,Type 1,0.009996861536906824
+spikes,low,12,RMSD,Type 2,0.00404860068597692
+spikes,low,12,RMSD,Image-based,0.004520951698199673
+spikes,low,13,SSIM,Type 1,0.9724156154090776
+spikes,low,13,SSIM,Type 2,0.9970623507877711
+spikes,low,13,SSIM,Image-based,0.9946802178053675
+spikes,low,13,RMSD,Type 1,0.010601393196016513
+spikes,low,13,RMSD,Type 2,0.004210094200094298
+spikes,low,13,RMSD,Image-based,0.004600731070805446
+spikes,low,14,SSIM,Type 1,0.972179666701537
+spikes,low,14,SSIM,Type 2,0.9967368044066043
+spikes,low,14,SSIM,Image-based,0.9940821463192192
+spikes,low,14,RMSD,Type 1,0.010689366345587351
+spikes,low,14,RMSD,Type 2,0.0043483721292306736
+spikes,low,14,RMSD,Image-based,0.00484057071827744
+spikes,low,15,SSIM,Type 1,0.9560467418743801
+spikes,low,15,SSIM,Type 2,0.9949143713155625
+spikes,low,15,SSIM,Image-based,0.9934239190674057
+spikes,low,15,RMSD,Type 1,0.01678147030541062
+spikes,low,15,RMSD,Type 2,0.0064444255714072776
+spikes,low,15,RMSD,Image-based,0.0067741654601902864
+spikes,low,16,SSIM,Type 1,0.978518867713549
+spikes,low,16,SSIM,Type 2,0.9973289883534279
+spikes,low,16,SSIM,Image-based,0.9952230939975644
+spikes,low,16,RMSD,Type 1,0.009188632704201732
+spikes,low,16,RMSD,Type 2,0.0038161804453657588
+spikes,low,16,RMSD,Image-based,0.004308991746627843
+spikes,low,17,SSIM,Type 1,0.9595942690782358
+spikes,low,17,SSIM,Type 2,0.9954400847272958
+spikes,low,17,SSIM,Image-based,0.9922536293659329
+spikes,low,17,RMSD,Type 1,0.014350266225852176
+spikes,low,17,RMSD,Type 2,0.00552898931564786
+spikes,low,17,RMSD,Image-based,0.006108701098365974
+spikes,low,18,SSIM,Type 1,0.9839284812045054
+spikes,low,18,SSIM,Type 2,0.9974785438597304
+spikes,low,18,SSIM,Image-based,0.9953132553236682
+spikes,low,18,RMSD,Type 1,0.008116564776637329
+spikes,low,18,RMSD,Type 2,0.003777685989174161
+spikes,low,18,RMSD,Image-based,0.00423056114959747
+spikes,low,19,SSIM,Type 1,0.9598173624902703
+spikes,low,19,SSIM,Type 2,0.9955447016585212
+spikes,low,19,SSIM,Image-based,0.9943525480120269
+spikes,low,19,RMSD,Type 1,0.016464140246157364
+spikes,low,19,RMSD,Type 2,0.006103273196131509
+spikes,low,19,RMSD,Image-based,0.006457721752704015
+spikes,low,20,SSIM,Type 1,0.9818325983594774
+spikes,low,20,SSIM,Type 2,0.9973161818192716
+spikes,low,20,SSIM,Image-based,0.9947463790009793
+spikes,low,20,RMSD,Type 1,0.008535584931606086
+spikes,low,20,RMSD,Type 2,0.003937350964481646
+spikes,low,20,RMSD,Image-based,0.004418571506340205
+spikes,medium,1,SSIM,Type 1,0.9396391063905578
+spikes,medium,1,SSIM,Type 2,0.9947554841083027
+spikes,medium,1,SSIM,Image-based,0.9922535645077328
+spikes,medium,1,RMSD,Type 1,0.01889565798431018
+spikes,medium,1,RMSD,Type 2,0.006715652889571007
+spikes,medium,1,RMSD,Image-based,0.007295000999646876
+spikes,medium,2,SSIM,Type 1,0.8943811804591313
+spikes,medium,2,SSIM,Type 2,0.994076528618152
+spikes,medium,2,SSIM,Image-based,0.9920212720659642
+spikes,medium,2,RMSD,Type 1,0.03918912615253795
+spikes,medium,2,RMSD,Type 2,0.010355452663873211
+spikes,medium,2,RMSD,Image-based,0.010838545393264542
+spikes,medium,3,SSIM,Type 1,0.9352839852441669
+spikes,medium,3,SSIM,Type 2,0.99476803166321
+spikes,medium,3,SSIM,Image-based,0.9922844520880327
+spikes,medium,3,RMSD,Type 1,0.019538026504419805
+spikes,medium,3,RMSD,Type 2,0.006987952402285519
+spikes,medium,3,RMSD,Image-based,0.007532964929674889
+spikes,medium,4,SSIM,Type 1,0.9066057969531568
+spikes,medium,4,SSIM,Type 2,0.9936668576555918
+spikes,medium,4,SSIM,Image-based,0.9915961092466805
+spikes,medium,4,RMSD,Type 1,0.02795051164147665
+spikes,medium,4,RMSD,Type 2,0.00895659851328511
+spikes,medium,4,RMSD,Image-based,0.009422087569647165
+spikes,medium,5,SSIM,Type 1,0.9446241086965952
+spikes,medium,5,SSIM,Type 2,0.9953938658607692
+spikes,medium,5,SSIM,Image-based,0.993198674691037
+spikes,medium,5,RMSD,Type 1,0.017563096162293856
+spikes,medium,5,RMSD,Type 2,0.006305663315387373
+spikes,medium,5,RMSD,Image-based,0.006807982754921648
+spikes,medium,6,SSIM,Type 1,0.913168425255133
+spikes,medium,6,SSIM,Type 2,0.9938287474473173
+spikes,medium,6,SSIM,Image-based,0.9912901852488383
+spikes,medium,6,RMSD,Type 1,0.024721718073832003
+spikes,medium,6,RMSD,Type 2,0.008168366699583518
+spikes,medium,6,RMSD,Image-based,0.008739539567740434
+spikes,medium,7,SSIM,Type 1,0.9070980223402176
+spikes,medium,7,SSIM,Type 2,0.9939278133469234
+spikes,medium,7,SSIM,Image-based,0.9915402704312518
+spikes,medium,7,RMSD,Type 1,0.025847016842536902
+spikes,medium,7,RMSD,Type 2,0.008367151654037073
+spikes,medium,7,RMSD,Image-based,0.008897176913572278
+spikes,medium,8,SSIM,Type 1,0.9754018439718445
+spikes,medium,8,SSIM,Type 2,0.9964713592766258
+spikes,medium,8,SSIM,Image-based,0.9942701951590094
+spikes,medium,8,RMSD,Type 1,0.010362419963551733
+spikes,medium,8,RMSD,Type 2,0.0046638550334630385
+spikes,medium,8,RMSD,Image-based,0.005226894985355128
+spikes,medium,9,SSIM,Type 1,0.9215805749857399
+spikes,medium,9,SSIM,Type 2,0.994117598661949
+spikes,medium,9,SSIM,Image-based,0.9915956038102642
+spikes,medium,9,RMSD,Type 1,0.022770755602095887
+spikes,medium,9,RMSD,Type 2,0.0075684957924198205
+spikes,medium,9,RMSD,Image-based,0.008090689185202516
+spikes,medium,10,SSIM,Type 1,0.9143129745216366
+spikes,medium,10,SSIM,Type 2,0.9940193381607769
+spikes,medium,10,SSIM,Image-based,0.9926336942306826
+spikes,medium,10,RMSD,Type 1,0.04297424195513891
+spikes,medium,10,RMSD,Type 2,0.010426630328135825
+spikes,medium,10,RMSD,Image-based,0.010802173803931055
+spikes,medium,11,SSIM,Type 1,0.913084742819525
+spikes,medium,11,SSIM,Type 2,0.9938835385060738
+spikes,medium,11,SSIM,Image-based,0.9912873770923224
+spikes,medium,11,RMSD,Type 1,0.02452223851921302
+spikes,medium,11,RMSD,Type 2,0.008149604450193835
+spikes,medium,11,RMSD,Image-based,0.008693401653622982
+spikes,medium,12,SSIM,Type 1,0.9033614109661398
+spikes,medium,12,SSIM,Type 2,0.9935554214539228
+spikes,medium,12,SSIM,Image-based,0.9912743309572531
+spikes,medium,12,RMSD,Type 1,0.027955588302998383
+spikes,medium,12,RMSD,Type 2,0.00889498766912182
+spikes,medium,12,RMSD,Image-based,0.009361180579700092
+spikes,medium,13,SSIM,Type 1,0.9740991313844997
+spikes,medium,13,SSIM,Type 2,0.996401154848812
+spikes,medium,13,SSIM,Image-based,0.9937011775102684
+spikes,medium,13,RMSD,Type 1,0.010696261443547347
+spikes,medium,13,RMSD,Type 2,0.004891885499000356
+spikes,medium,13,RMSD,Image-based,0.005479168995563248
+spikes,medium,14,SSIM,Type 1,0.9247130777177718
+spikes,medium,14,SSIM,Type 2,0.9939761434200949
+spikes,medium,14,SSIM,Image-based,0.9916681632288279
+spikes,medium,14,RMSD,Type 1,0.021120990404734103
+spikes,medium,14,RMSD,Type 2,0.0077573525259139985
+spikes,medium,14,RMSD,Image-based,0.008240609215610512
+spikes,medium,15,SSIM,Type 1,0.8911494434029833
+spikes,medium,15,SSIM,Type 2,0.9935364977812273
+spikes,medium,15,SSIM,Image-based,0.9912156913095396
+spikes,medium,15,RMSD,Type 1,0.0302178957828456
+spikes,medium,15,RMSD,Type 2,0.009263813396810296
+spikes,medium,15,RMSD,Image-based,0.009747226745734522
+spikes,medium,16,SSIM,Type 1,0.9004084903935422
+spikes,medium,16,SSIM,Type 2,0.9938052719192112
+spikes,medium,16,SSIM,Image-based,0.9915693392712575
+spikes,medium,16,RMSD,Type 1,0.031544822836275535
+spikes,medium,16,RMSD,Type 2,0.009750803862148874
+spikes,medium,16,RMSD,Image-based,0.01020906403705363
+spikes,medium,17,SSIM,Type 1,0.9367911596256733
+spikes,medium,17,SSIM,Type 2,0.9948916491276215
+spikes,medium,17,SSIM,Image-based,0.9920990354419588
+spikes,medium,17,RMSD,Type 1,0.01927700732638146
+spikes,medium,17,RMSD,Type 2,0.0068512241812894465
+spikes,medium,17,RMSD,Image-based,0.007497879198627307
+spikes,medium,18,SSIM,Type 1,0.9261154285698509
+spikes,medium,18,SSIM,Type 2,0.9943268198780219
+spikes,medium,18,SSIM,Image-based,0.991608500750706
+spikes,medium,18,RMSD,Type 1,0.02078759998091066
+spikes,medium,18,RMSD,Type 2,0.0072703345208149075
+spikes,medium,18,RMSD,Image-based,0.007882637075680708
+spikes,medium,19,SSIM,Type 1,0.8969015390204272
+spikes,medium,19,SSIM,Type 2,0.9919014398169905
+spikes,medium,19,SSIM,Image-based,0.9897426866082036
+spikes,medium,19,RMSD,Type 1,0.04010030290635166
+spikes,medium,19,RMSD,Type 2,0.012379530316160998
+spikes,medium,19,RMSD,Image-based,0.012761918631178001
+spikes,medium,20,SSIM,Type 1,0.8862594061573787
+spikes,medium,20,SSIM,Type 2,0.9938436516332528
+spikes,medium,20,SSIM,Image-based,0.9922468794012806
+spikes,medium,20,RMSD,Type 1,0.0352409279799655
+spikes,medium,20,RMSD,Type 2,0.010303305511392342
+spikes,medium,20,RMSD,Image-based,0.010752491125775249
+spikes,high,1,SSIM,Type 1,0.843943778678159
+spikes,high,1,SSIM,Type 2,0.9931618928801618
+spikes,high,1,SSIM,Image-based,0.9907544345450576
+spikes,high,1,RMSD,Type 1,0.04110025464925438
+spikes,high,1,RMSD,Type 2,0.01113659300400198
+spikes,high,1,RMSD,Image-based,0.011696679417977154
+spikes,high,2,SSIM,Type 1,0.8313429930260106
+spikes,high,2,SSIM,Type 2,0.9929610478633234
+spikes,high,2,SSIM,Image-based,0.990849258823735
+spikes,high,2,RMSD,Type 1,0.0517084642418931
+spikes,high,2,RMSD,Type 2,0.011349127340947736
+spikes,high,2,RMSD,Image-based,0.011859870478400349
+spikes,high,3,SSIM,Type 1,0.8275283250388626
+spikes,high,3,SSIM,Type 2,0.9932025141541163
+spikes,high,3,SSIM,Image-based,0.991046462503179
+spikes,high,3,RMSD,Type 1,0.05110018150883547
+spikes,high,3,RMSD,Type 2,0.012288847678292674
+spikes,high,3,RMSD,Image-based,0.012841497583866527
+spikes,high,4,SSIM,Type 1,0.8461725461539812
+spikes,high,4,SSIM,Type 2,0.9928863176300936
+spikes,high,4,SSIM,Image-based,0.9903810727578193
+spikes,high,4,RMSD,Type 1,0.04119063744675624
+spikes,high,4,RMSD,Type 2,0.011388210496867866
+spikes,high,4,RMSD,Image-based,0.011973810033498655
+spikes,high,5,SSIM,Type 1,0.9126335067798018
+spikes,high,5,SSIM,Type 2,0.9934531396243319
+spikes,high,5,SSIM,Image-based,0.9900869894858179
+spikes,high,5,RMSD,Type 1,0.023060926699289833
+spikes,high,5,RMSD,Type 2,0.00818302230772612
+spikes,high,5,RMSD,Image-based,0.008811020294338853
+spikes,high,6,SSIM,Type 1,0.8918170071573401
+spikes,high,6,SSIM,Type 2,0.9933773262664836
+spikes,high,6,SSIM,Image-based,0.990472859025579
+spikes,high,6,RMSD,Type 1,0.03070696307469216
+spikes,high,6,RMSD,Type 2,0.009345675212408353
+spikes,high,6,RMSD,Image-based,0.009971118992549146
+spikes,high,7,SSIM,Type 1,0.8362676088558838
+spikes,high,7,SSIM,Type 2,0.9935495138564269
+spikes,high,7,SSIM,Image-based,0.991256823851369
+spikes,high,7,RMSD,Type 1,0.04671971524790159
+spikes,high,7,RMSD,Type 2,0.012025990797288841
+spikes,high,7,RMSD,Image-based,0.012638642804270734
+spikes,high,8,SSIM,Type 1,0.8830932866716951
+spikes,high,8,SSIM,Type 2,0.9930102347929421
+spikes,high,8,SSIM,Image-based,0.9904114377463601
+spikes,high,8,RMSD,Type 1,0.03420619062248956
+spikes,high,8,RMSD,Type 2,0.010001188121895441
+spikes,high,8,RMSD,Image-based,0.010517843709787766
+spikes,high,9,SSIM,Type 1,0.892935521305752
+spikes,high,9,SSIM,Type 2,0.9930225329361292
+spikes,high,9,SSIM,Image-based,0.9904948171747474
+spikes,high,9,RMSD,Type 1,0.030887956224657554
+spikes,high,9,RMSD,Type 2,0.009452801260127363
+spikes,high,9,RMSD,Image-based,0.010004268156789306
+spikes,high,10,SSIM,Type 1,0.9587621251320719
+spikes,high,10,SSIM,Type 2,0.9949813447827437
+spikes,high,10,SSIM,Image-based,0.9917232554321238
+spikes,high,10,RMSD,Type 1,0.014182554323652995
+spikes,high,10,RMSD,Type 2,0.006288859134862918
+spikes,high,10,RMSD,Image-based,0.00700191630657542
+spikes,high,11,SSIM,Type 1,0.8495922932599537
+spikes,high,11,SSIM,Type 2,0.992627176877614
+spikes,high,11,SSIM,Image-based,0.9899863126895666
+spikes,high,11,RMSD,Type 1,0.04001446602398575
+spikes,high,11,RMSD,Type 2,0.011048216538555129
+spikes,high,11,RMSD,Image-based,0.011637925202109647
+spikes,high,12,SSIM,Type 1,0.8640440680584052
+spikes,high,12,SSIM,Type 2,0.9924806721716525
+spikes,high,12,SSIM,Image-based,0.9894452494428894
+spikes,high,12,RMSD,Type 1,0.034491945595426066
+spikes,high,12,RMSD,Type 2,0.010049628650367133
+spikes,high,12,RMSD,Image-based,0.01063565240196738
+spikes,high,13,SSIM,Type 1,0.8512859410257596
+spikes,high,13,SSIM,Type 2,0.9929392507669985
+spikes,high,13,SSIM,Image-based,0.9905741502635873
+spikes,high,13,RMSD,Type 1,0.038899344735753086
+spikes,high,13,RMSD,Type 2,0.010825934679785142
+spikes,high,13,RMSD,Image-based,0.011341512433488568
+spikes,high,14,SSIM,Type 1,0.8868052010164041
+spikes,high,14,SSIM,Type 2,0.9933386378919659
+spikes,high,14,SSIM,Image-based,0.9906412039210546
+spikes,high,14,RMSD,Type 1,0.03084085604216169
+spikes,high,14,RMSD,Type 2,0.00932216650875229
+spikes,high,14,RMSD,Image-based,0.00992924961103552
+spikes,high,15,SSIM,Type 1,0.9070939161816911
+spikes,high,15,SSIM,Type 2,0.9931237168251456
+spikes,high,15,SSIM,Image-based,0.9900054646379319
+spikes,high,15,RMSD,Type 1,0.025949237418612325
+spikes,high,15,RMSD,Type 2,0.008665234764041624
+spikes,high,15,RMSD,Image-based,0.009281429969573436
+spikes,high,16,SSIM,Type 1,0.8653102155814213
+spikes,high,16,SSIM,Type 2,0.9928445872975705
+spikes,high,16,SSIM,Image-based,0.9901942145646369
+spikes,high,16,RMSD,Type 1,0.04196884511041694
+spikes,high,16,RMSD,Type 2,0.011135740295631498
+spikes,high,16,RMSD,Image-based,0.011726996113312
+spikes,high,17,SSIM,Type 1,0.8528344347439509
+spikes,high,17,SSIM,Type 2,0.993351416345934
+spikes,high,17,SSIM,Image-based,0.9907710805059217
+spikes,high,17,RMSD,Type 1,0.056563732158470145
+spikes,high,17,RMSD,Type 2,0.0118480678505595
+spikes,high,17,RMSD,Image-based,0.012450410438780219
+spikes,high,18,SSIM,Type 1,0.883199686051755
+spikes,high,18,SSIM,Type 2,0.993428037635787
+spikes,high,18,SSIM,Image-based,0.9908352560005145
+spikes,high,18,RMSD,Type 1,0.03403852372945136
+spikes,high,18,RMSD,Type 2,0.010134765657198754
+spikes,high,18,RMSD,Image-based,0.01069718012171602
+spikes,high,19,SSIM,Type 1,0.8898958008378571
+spikes,high,19,SSIM,Type 2,0.9928515709616471
+spikes,high,19,SSIM,Image-based,0.9896981292639648
+spikes,high,19,RMSD,Type 1,0.029682047023975158
+spikes,high,19,RMSD,Type 2,0.009349839914462806
+spikes,high,19,RMSD,Image-based,0.009972917373251284
+spikes,high,20,SSIM,Type 1,0.9576307963588548
+spikes,high,20,SSIM,Type 2,0.994770915958605
+spikes,high,20,SSIM,Image-based,0.9912891141963525
+spikes,high,20,RMSD,Type 1,0.014455365672950691
+spikes,high,20,RMSD,Type 2,0.006504309648272629
+spikes,high,20,RMSD,Image-based,0.007211009641355313
+stepwise,low,1,SSIM,Type 1,0.9736240667745566
+stepwise,low,1,SSIM,Type 2,0.978531552594015
+stepwise,low,1,SSIM,Image-based,0.9759387498462525
+stepwise,low,1,RMSD,Type 1,0.02079696221576791
+stepwise,low,1,RMSD,Type 2,0.02027514095830386
+stepwise,low,1,RMSD,Image-based,0.03666589659651802
+stepwise,low,2,SSIM,Type 1,0.9629446697791854
+stepwise,low,2,SSIM,Type 2,0.984578557312858
+stepwise,low,2,SSIM,Image-based,0.9818026779462051
+stepwise,low,2,RMSD,Type 1,0.01875929532446605
+stepwise,low,2,RMSD,Type 2,0.016557010597737513
+stepwise,low,2,RMSD,Image-based,0.030573396522716633
+stepwise,low,3,SSIM,Type 1,0.9459351877518681
+stepwise,low,3,SSIM,Type 2,0.9823113756766577
+stepwise,low,3,SSIM,Image-based,0.9807648220493941
+stepwise,low,3,RMSD,Type 1,0.021140581519632003
+stepwise,low,3,RMSD,Type 2,0.017804834654896236
+stepwise,low,3,RMSD,Image-based,0.03220357961547375
+stepwise,low,4,SSIM,Type 1,0.9665246644908677
+stepwise,low,4,SSIM,Type 2,0.983093425845761
+stepwise,low,4,SSIM,Image-based,0.9822832888030553
+stepwise,low,4,RMSD,Type 1,0.01956187031953514
+stepwise,low,4,RMSD,Type 2,0.01816695325271535
+stepwise,low,4,RMSD,Image-based,0.033709989080315285
+stepwise,low,5,SSIM,Type 1,0.9691235866198075
+stepwise,low,5,SSIM,Type 2,0.9800427291531306
+stepwise,low,5,SSIM,Image-based,0.9806429771690404
+stepwise,low,5,RMSD,Type 1,0.0193464634679426
+stepwise,low,5,RMSD,Type 2,0.018440088388529445
+stepwise,low,5,RMSD,Image-based,0.03441792171984288
+stepwise,low,6,SSIM,Type 1,0.979131018386844
+stepwise,low,6,SSIM,Type 2,0.982593827506377
+stepwise,low,6,SSIM,Image-based,0.9806009951543158
+stepwise,low,6,RMSD,Type 1,0.01929654785749195
+stepwise,low,6,RMSD,Type 2,0.018842219952878377
+stepwise,low,6,RMSD,Image-based,0.03351220303435325
+stepwise,low,7,SSIM,Type 1,0.9797814907111068
+stepwise,low,7,SSIM,Type 2,0.9845689185127645
+stepwise,low,7,SSIM,Image-based,0.9822988056424357
+stepwise,low,7,RMSD,Type 1,0.018325983764021832
+stepwise,low,7,RMSD,Type 2,0.01786007071238951
+stepwise,low,7,RMSD,Image-based,0.0319218180457824
+stepwise,low,8,SSIM,Type 1,0.9764153783971621
+stepwise,low,8,SSIM,Type 2,0.984386187815718
+stepwise,low,8,SSIM,Image-based,0.9824626651153234
+stepwise,low,8,RMSD,Type 1,0.01867207635479167
+stepwise,low,8,RMSD,Type 2,0.017906128804839085
+stepwise,low,8,RMSD,Image-based,0.03152416785839539
+stepwise,low,9,SSIM,Type 1,0.9775829069789344
+stepwise,low,9,SSIM,Type 2,0.9831039961438085
+stepwise,low,9,SSIM,Image-based,0.9803449544312363
+stepwise,low,9,RMSD,Type 1,0.019380943950411796
+stepwise,low,9,RMSD,Type 2,0.018713341511145346
+stepwise,low,9,RMSD,Image-based,0.03140495669635761
+stepwise,low,10,SSIM,Type 1,0.9665102680816829
+stepwise,low,10,SSIM,Type 2,0.9823127926804528
+stepwise,low,10,SSIM,Image-based,0.983446118149643
+stepwise,low,10,RMSD,Type 1,0.018496736978193203
+stepwise,low,10,RMSD,Type 2,0.017485120633598916
+stepwise,low,10,RMSD,Image-based,0.031856062680703394
+stepwise,low,11,SSIM,Type 1,0.9757206096988769
+stepwise,low,11,SSIM,Type 2,0.9829497740368732
+stepwise,low,11,SSIM,Image-based,0.9822337342059405
+stepwise,low,11,RMSD,Type 1,0.01878051052085504
+stepwise,low,11,RMSD,Type 2,0.01803599827554319
+stepwise,low,11,RMSD,Image-based,0.03168072851025889
+stepwise,low,12,SSIM,Type 1,0.9673152530884047
+stepwise,low,12,SSIM,Type 2,0.9807725919484571
+stepwise,low,12,SSIM,Image-based,0.9758314951262472
+stepwise,low,12,RMSD,Type 1,0.020915284834676716
+stepwise,low,12,RMSD,Type 2,0.019317010390252135
+stepwise,low,12,RMSD,Image-based,0.03417321833122842
+stepwise,low,13,SSIM,Type 1,0.9489206771317654
+stepwise,low,13,SSIM,Type 2,0.981562753485969
+stepwise,low,13,SSIM,Image-based,0.9831746644940068
+stepwise,low,13,RMSD,Type 1,0.019417555497950163
+stepwise,low,13,RMSD,Type 2,0.01701056805402155
+stepwise,low,13,RMSD,Image-based,0.031612977659046804
+stepwise,low,14,SSIM,Type 1,0.975277717911693
+stepwise,low,14,SSIM,Type 2,0.9827317248746578
+stepwise,low,14,SSIM,Image-based,0.9826432241038878
+stepwise,low,14,RMSD,Type 1,0.019008582056728684
+stepwise,low,14,RMSD,Type 2,0.018347567893933762
+stepwise,low,14,RMSD,Image-based,0.032174378635601776
+stepwise,low,15,SSIM,Type 1,0.964745292728734
+stepwise,low,15,SSIM,Type 2,0.9853338258119474
+stepwise,low,15,SSIM,Image-based,0.9858762411423931
+stepwise,low,15,RMSD,Type 1,0.018064532058626338
+stepwise,low,15,RMSD,Type 2,0.01628217758217872
+stepwise,low,15,RMSD,Image-based,0.028015873750454636
+stepwise,low,16,SSIM,Type 1,0.9746107980707387
+stepwise,low,16,SSIM,Type 2,0.9851510735506164
+stepwise,low,16,SSIM,Image-based,0.9854530963112456
+stepwise,low,16,RMSD,Type 1,0.01732879814174574
+stepwise,low,16,RMSD,Type 2,0.016451810795811237
+stepwise,low,16,RMSD,Image-based,0.030088869577815466
+stepwise,low,17,SSIM,Type 1,0.9623039070201078
+stepwise,low,17,SSIM,Type 2,0.983150109712881
+stepwise,low,17,SSIM,Image-based,0.9799663707319591
+stepwise,low,17,RMSD,Type 1,0.019996311308866928
+stepwise,low,17,RMSD,Type 2,0.01791804433791604
+stepwise,low,17,RMSD,Image-based,0.03148691273166441
+stepwise,low,18,SSIM,Type 1,0.9720598708843723
+stepwise,low,18,SSIM,Type 2,0.9841165931455078
+stepwise,low,18,SSIM,Image-based,0.9811988824314058
+stepwise,low,18,RMSD,Type 1,0.01801609278991532
+stepwise,low,18,RMSD,Type 2,0.016841637324385837
+stepwise,low,18,RMSD,Image-based,0.029768134626934947
+stepwise,low,19,SSIM,Type 1,0.9656246127141056
+stepwise,low,19,SSIM,Type 2,0.982705090492224
+stepwise,low,19,SSIM,Image-based,0.9815927783469814
+stepwise,low,19,RMSD,Type 1,0.020198597534346024
+stepwise,low,19,RMSD,Type 2,0.018888122334303235
+stepwise,low,19,RMSD,Image-based,0.03439282690055242
+stepwise,low,20,SSIM,Type 1,0.9713586369989476
+stepwise,low,20,SSIM,Type 2,0.982140141010319
+stepwise,low,20,SSIM,Image-based,0.9753035427230513
+stepwise,low,20,RMSD,Type 1,0.021158276268741824
+stepwise,low,20,RMSD,Type 2,0.01995780046121464
+stepwise,low,20,RMSD,Image-based,0.03436758289897457
+stepwise,medium,1,SSIM,Type 1,0.9437646420309825
+stepwise,medium,1,SSIM,Type 2,0.9838570483417219
+stepwise,medium,1,SSIM,Image-based,0.9766180536711276
+stepwise,medium,1,RMSD,Type 1,0.02701374535431832
+stepwise,medium,1,RMSD,Type 2,0.018956720817124465
+stepwise,medium,1,RMSD,Image-based,0.03170764899399348
+stepwise,medium,2,SSIM,Type 1,0.9248245573800873
+stepwise,medium,2,SSIM,Type 2,0.9850633714520521
+stepwise,medium,2,SSIM,Image-based,0.9654713543843942
+stepwise,medium,2,RMSD,Type 1,0.027443057868885012
+stepwise,medium,2,RMSD,Type 2,0.018092192837428703
+stepwise,medium,2,RMSD,Image-based,0.03106110412858253
+stepwise,medium,3,SSIM,Type 1,0.9008130610952024
+stepwise,medium,3,SSIM,Type 2,0.9849924588433652
+stepwise,medium,3,SSIM,Image-based,0.9751006301828299
+stepwise,medium,3,RMSD,Type 1,0.03359778520544752
+stepwise,medium,3,RMSD,Type 2,0.018438240136386595
+stepwise,medium,3,RMSD,Image-based,0.031952153764436636
+stepwise,medium,4,SSIM,Type 1,0.9369366535668412
+stepwise,medium,4,SSIM,Type 2,0.9838260261284338
+stepwise,medium,4,SSIM,Image-based,0.9741675192126357
+stepwise,medium,4,RMSD,Type 1,0.026369689883871037
+stepwise,medium,4,RMSD,Type 2,0.01822448259090218
+stepwise,medium,4,RMSD,Image-based,0.031990646249434415
+stepwise,medium,5,SSIM,Type 1,0.9406842974540042
+stepwise,medium,5,SSIM,Type 2,0.9856083531658585
+stepwise,medium,5,SSIM,Image-based,0.972646654431062
+stepwise,medium,5,RMSD,Type 1,0.02846652887207021
+stepwise,medium,5,RMSD,Type 2,0.020022748727979964
+stepwise,medium,5,RMSD,Image-based,0.0337889505615464
+stepwise,medium,6,SSIM,Type 1,0.9610763995838918
+stepwise,medium,6,SSIM,Type 2,0.9828238655947706
+stepwise,medium,6,SSIM,Image-based,0.9725271500339261
+stepwise,medium,6,RMSD,Type 1,0.02361482032101921
+stepwise,medium,6,RMSD,Type 2,0.01907962940014007
+stepwise,medium,6,RMSD,Image-based,0.03215726137720525
+stepwise,medium,7,SSIM,Type 1,0.9262670275640355
+stepwise,medium,7,SSIM,Type 2,0.9840391656808808
+stepwise,medium,7,SSIM,Image-based,0.9697935659335034
+stepwise,medium,7,RMSD,Type 1,0.030322842510977076
+stepwise,medium,7,RMSD,Type 2,0.01949005110596387
+stepwise,medium,7,RMSD,Image-based,0.03495764761808237
+stepwise,medium,8,SSIM,Type 1,0.9499835344460237
+stepwise,medium,8,SSIM,Type 2,0.9820790920301479
+stepwise,medium,8,SSIM,Image-based,0.9718607203246005
+stepwise,medium,8,RMSD,Type 1,0.02382440714879278
+stepwise,medium,8,RMSD,Type 2,0.01880747860890525
+stepwise,medium,8,RMSD,Image-based,0.03259665080042174
+stepwise,medium,9,SSIM,Type 1,0.9441047472874489
+stepwise,medium,9,SSIM,Type 2,0.9842294608174399
+stepwise,medium,9,SSIM,Image-based,0.9758551784328793
+stepwise,medium,9,RMSD,Type 1,0.024894321665928656
+stepwise,medium,9,RMSD,Type 2,0.018298491279495233
+stepwise,medium,9,RMSD,Image-based,0.03109655108985905
+stepwise,medium,10,SSIM,Type 1,0.9257043525424579
+stepwise,medium,10,SSIM,Type 2,0.98316307063352
+stepwise,medium,10,SSIM,Image-based,0.9746321945757029
+stepwise,medium,10,RMSD,Type 1,0.027626857842430245
+stepwise,medium,10,RMSD,Type 2,0.017836584935362172
+stepwise,medium,10,RMSD,Image-based,0.03093806582644337
+stepwise,medium,11,SSIM,Type 1,0.9450517538528583
+stepwise,medium,11,SSIM,Type 2,0.9831588955787638
+stepwise,medium,11,SSIM,Image-based,0.9744443829770173
+stepwise,medium,11,RMSD,Type 1,0.025004299626175997
+stepwise,medium,11,RMSD,Type 2,0.01873365279023723
+stepwise,medium,11,RMSD,Image-based,0.032680859165838745
+stepwise,medium,12,SSIM,Type 1,0.9232324035886712
+stepwise,medium,12,SSIM,Type 2,0.9846218875909848
+stepwise,medium,12,SSIM,Image-based,0.9751100389395415
+stepwise,medium,12,RMSD,Type 1,0.02908652551611989
+stepwise,medium,12,RMSD,Type 2,0.017560948897843324
+stepwise,medium,12,RMSD,Image-based,0.029589451033321598
+stepwise,medium,13,SSIM,Type 1,0.9417313398507228
+stepwise,medium,13,SSIM,Type 2,0.9820249889738117
+stepwise,medium,13,SSIM,Image-based,0.9737495288460111
+stepwise,medium,13,RMSD,Type 1,0.02683580517371336
+stepwise,medium,13,RMSD,Type 2,0.018563726551098364
+stepwise,medium,13,RMSD,Image-based,0.03307815219635749
+stepwise,medium,14,SSIM,Type 1,0.9485483689810394
+stepwise,medium,14,SSIM,Type 2,0.9841507570015461
+stepwise,medium,14,SSIM,Image-based,0.9719780931750308
+stepwise,medium,14,RMSD,Type 1,0.02602280449541363
+stepwise,medium,14,RMSD,Type 2,0.019266246580224154
+stepwise,medium,14,RMSD,Image-based,0.032757919648574156
+stepwise,medium,15,SSIM,Type 1,0.9626914659671566
+stepwise,medium,15,SSIM,Type 2,0.9819583688364146
+stepwise,medium,15,SSIM,Image-based,0.9728984045124488
+stepwise,medium,15,RMSD,Type 1,0.023229463501447972
+stepwise,medium,15,RMSD,Type 2,0.019276165041290778
+stepwise,medium,15,RMSD,Image-based,0.03430863269238318
+stepwise,medium,16,SSIM,Type 1,0.9035743540115584
+stepwise,medium,16,SSIM,Type 2,0.9837288373737979
+stepwise,medium,16,SSIM,Image-based,0.9766081586096876
+stepwise,medium,16,RMSD,Type 1,0.03402048738173287
+stepwise,medium,16,RMSD,Type 2,0.018840508230030226
+stepwise,medium,16,RMSD,Image-based,0.03238156797448267
+stepwise,medium,17,SSIM,Type 1,0.9339210479406381
+stepwise,medium,17,SSIM,Type 2,0.9822194212051728
+stepwise,medium,17,SSIM,Image-based,0.9739985020048209
+stepwise,medium,17,RMSD,Type 1,0.02519811847883482
+stepwise,medium,17,RMSD,Type 2,0.01839423024127826
+stepwise,medium,17,RMSD,Image-based,0.03297036643748398
+stepwise,medium,18,SSIM,Type 1,0.9377964135091148
+stepwise,medium,18,SSIM,Type 2,0.9814026270409902
+stepwise,medium,18,SSIM,Image-based,0.9681179822756518
+stepwise,medium,18,RMSD,Type 1,0.02714613131744396
+stepwise,medium,18,RMSD,Type 2,0.019046516582825787
+stepwise,medium,18,RMSD,Image-based,0.033137437520946694
+stepwise,medium,19,SSIM,Type 1,0.9297977050355614
+stepwise,medium,19,SSIM,Type 2,0.9872606751293359
+stepwise,medium,19,SSIM,Image-based,0.9774425601999308
+stepwise,medium,19,RMSD,Type 1,0.03261376100631377
+stepwise,medium,19,RMSD,Type 2,0.01959411370280967
+stepwise,medium,19,RMSD,Image-based,0.03164393262299762
+stepwise,medium,20,SSIM,Type 1,0.9302634054129408
+stepwise,medium,20,SSIM,Type 2,0.9840867299523177
+stepwise,medium,20,SSIM,Image-based,0.9745967876724391
+stepwise,medium,20,RMSD,Type 1,0.030013791890197913
+stepwise,medium,20,RMSD,Type 2,0.019498416250287375
+stepwise,medium,20,RMSD,Image-based,0.03227742038246833
+stepwise,high,1,SSIM,Type 1,0.9044053018662941
+stepwise,high,1,SSIM,Type 2,0.9837709404871924
+stepwise,high,1,SSIM,Image-based,0.9659868894506084
+stepwise,high,1,RMSD,Type 1,0.03816524618892521
+stepwise,high,1,RMSD,Type 2,0.01982572725599062
+stepwise,high,1,RMSD,Image-based,0.03500212524962554
+stepwise,high,2,SSIM,Type 1,0.9226972197980812
+stepwise,high,2,SSIM,Type 2,0.9806977124567492
+stepwise,high,2,SSIM,Image-based,0.9654355949845383
+stepwise,high,2,RMSD,Type 1,0.03175979284248831
+stepwise,high,2,RMSD,Type 2,0.019926567923405757
+stepwise,high,2,RMSD,Image-based,0.03572792531974237
+stepwise,high,3,SSIM,Type 1,0.8799667580915915
+stepwise,high,3,SSIM,Type 2,0.9834119943065687
+stepwise,high,3,SSIM,Image-based,0.9686387717760669
+stepwise,high,3,RMSD,Type 1,0.042355594953274976
+stepwise,high,3,RMSD,Type 2,0.019088733979532514
+stepwise,high,3,RMSD,Image-based,0.033694926314112236
+stepwise,high,4,SSIM,Type 1,0.9199907353519299
+stepwise,high,4,SSIM,Type 2,0.9822264045594998
+stepwise,high,4,SSIM,Image-based,0.9698075731480855
+stepwise,high,4,RMSD,Type 1,0.03793068738008112
+stepwise,high,4,RMSD,Type 2,0.018521503013600706
+stepwise,high,4,RMSD,Image-based,0.03191114413009531
+stepwise,high,5,SSIM,Type 1,0.9415227136997693
+stepwise,high,5,SSIM,Type 2,0.9783430558715115
+stepwise,high,5,SSIM,Image-based,0.96201094273085
+stepwise,high,5,RMSD,Type 1,0.027811996766790182
+stepwise,high,5,RMSD,Type 2,0.020134802638262287
+stepwise,high,5,RMSD,Image-based,0.037038784488095375
+stepwise,high,6,SSIM,Type 1,0.9312834911246844
+stepwise,high,6,SSIM,Type 2,0.9838417794572243
+stepwise,high,6,SSIM,Image-based,0.9664296054541109
+stepwise,high,6,RMSD,Type 1,0.0278406515580771
+stepwise,high,6,RMSD,Type 2,0.018120742563568614
+stepwise,high,6,RMSD,Image-based,0.030670677915326322
+stepwise,high,7,SSIM,Type 1,0.897237447209521
+stepwise,high,7,SSIM,Type 2,0.9833658427537081
+stepwise,high,7,SSIM,Image-based,0.961537616550328
+stepwise,high,7,RMSD,Type 1,0.0363513327754076
+stepwise,high,7,RMSD,Type 2,0.018677234642249796
+stepwise,high,7,RMSD,Image-based,0.032864821594666145
+stepwise,high,8,SSIM,Type 1,0.8924352207098601
+stepwise,high,8,SSIM,Type 2,0.9822922219223336
+stepwise,high,8,SSIM,Image-based,0.9681323018775837
+stepwise,high,8,RMSD,Type 1,0.040285788001099894
+stepwise,high,8,RMSD,Type 2,0.018969470775844908
+stepwise,high,8,RMSD,Image-based,0.033921329409545085
+stepwise,high,9,SSIM,Type 1,0.872573540770212
+stepwise,high,9,SSIM,Type 2,0.9862134403030492
+stepwise,high,9,SSIM,Image-based,0.9426467793840784
+stepwise,high,9,RMSD,Type 1,0.04560049381517295
+stepwise,high,9,RMSD,Type 2,0.018959039797397725
+stepwise,high,9,RMSD,Image-based,0.03701375502052934
+stepwise,high,10,SSIM,Type 1,0.9360254486806657
+stepwise,high,10,SSIM,Type 2,0.9806340235104936
+stepwise,high,10,SSIM,Image-based,0.9648683319644196
+stepwise,high,10,RMSD,Type 1,0.029838954244493468
+stepwise,high,10,RMSD,Type 2,0.019413318096695407
+stepwise,high,10,RMSD,Image-based,0.03519211803940288
+stepwise,high,11,SSIM,Type 1,0.9322120368303245
+stepwise,high,11,SSIM,Type 2,0.9823787044036997
+stepwise,high,11,SSIM,Image-based,0.9691798854366973
+stepwise,high,11,RMSD,Type 1,0.030329154916549587
+stepwise,high,11,RMSD,Type 2,0.01937369780078586
+stepwise,high,11,RMSD,Image-based,0.03368070528090879
+stepwise,high,12,SSIM,Type 1,0.8975082201851071
+stepwise,high,12,SSIM,Type 2,0.9829901211223735
+stepwise,high,12,SSIM,Image-based,0.9658118195007874
+stepwise,high,12,RMSD,Type 1,0.042928908123983464
+stepwise,high,12,RMSD,Type 2,0.018734250759414893
+stepwise,high,12,RMSD,Image-based,0.03288075229363127
+stepwise,high,13,SSIM,Type 1,0.9355845218341085
+stepwise,high,13,SSIM,Type 2,0.9808262469098201
+stepwise,high,13,SSIM,Image-based,0.9692507069269377
+stepwise,high,13,RMSD,Type 1,0.02963063038542581
+stepwise,high,13,RMSD,Type 2,0.01922983060904499
+stepwise,high,13,RMSD,Image-based,0.033275658400780755
+stepwise,high,14,SSIM,Type 1,0.9118540731373397
+stepwise,high,14,SSIM,Type 2,0.9834694579763317
+stepwise,high,14,SSIM,Image-based,0.9700631458696752
+stepwise,high,14,RMSD,Type 1,0.03233314172613233
+stepwise,high,14,RMSD,Type 2,0.018282911252601966
+stepwise,high,14,RMSD,Image-based,0.0306114051927179
+stepwise,high,15,SSIM,Type 1,0.9237712426211951
+stepwise,high,15,SSIM,Type 2,0.9825130588375357
+stepwise,high,15,SSIM,Image-based,0.9720917206994028
+stepwise,high,15,RMSD,Type 1,0.030289368755053406
+stepwise,high,15,RMSD,Type 2,0.019040906383978397
+stepwise,high,15,RMSD,Image-based,0.033012522382803895
+stepwise,high,16,SSIM,Type 1,0.9253975844847355
+stepwise,high,16,SSIM,Type 2,0.981714691194848
+stepwise,high,16,SSIM,Image-based,0.9537648890208501
+stepwise,high,16,RMSD,Type 1,0.033955617651347206
+stepwise,high,16,RMSD,Type 2,0.019823716123099643
+stepwise,high,16,RMSD,Image-based,0.035848270791770914
+stepwise,high,17,SSIM,Type 1,0.922123302445858
+stepwise,high,17,SSIM,Type 2,0.9802416411976604
+stepwise,high,17,SSIM,Image-based,0.9578296737145846
+stepwise,high,17,RMSD,Type 1,0.04008246338166176
+stepwise,high,17,RMSD,Type 2,0.01928432356541824
+stepwise,high,17,RMSD,Image-based,0.03583092128877153
+stepwise,high,18,SSIM,Type 1,0.90569443611064
+stepwise,high,18,SSIM,Type 2,0.9828111480004517
+stepwise,high,18,SSIM,Image-based,0.9703948581096258
+stepwise,high,18,RMSD,Type 1,0.03425295315358361
+stepwise,high,18,RMSD,Type 2,0.019158768392442252
+stepwise,high,18,RMSD,Image-based,0.03328223857683592
+stepwise,high,19,SSIM,Type 1,0.8936822820668479
+stepwise,high,19,SSIM,Type 2,0.9834394803131687
+stepwise,high,19,SSIM,Image-based,0.9679506556622038
+stepwise,high,19,RMSD,Type 1,0.04385517720689681
+stepwise,high,19,RMSD,Type 2,0.019482363781642628
+stepwise,high,19,RMSD,Image-based,0.03377856379782276
+stepwise,high,20,SSIM,Type 1,0.8933009976996538
+stepwise,high,20,SSIM,Type 2,0.9848886789842145
+stepwise,high,20,SSIM,Image-based,0.9764814771096888
+stepwise,high,20,RMSD,Type 1,0.03820618653823537
+stepwise,high,20,RMSD,Type 2,0.01890598127197405
+stepwise,high,20,RMSD,Image-based,0.031452280741316306

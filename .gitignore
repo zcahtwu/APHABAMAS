@@ -207,7 +207,21 @@ marimo/_lsp/
 __marimo__/
 
 # excluding data files
-*.json
+# *.json
 *.nii.gz
-*.svg
+# *.svg
 *.npy
+
+# Temporary rollback data for the slow-drift 1/3/5 severity migration.
+experiments/motion_type_investigation/slow_drift/_migration_backup_*/
+experiments/motion_type_investigation/slow_drift/trajectories/*
+experiments/motion_type_investigation/stepwise/trajectories/*
+experiments/motion_type_investigation/spikes/trajectories/*
+experiments/motion_type_investigation/slow_drift/temp/*
+experiments/motion_type_investigation/stepwise/temp/*
+experiments/motion_type_investigation/spikes/temp/*
+experiments/real_motion_traces/phantom_results/metrics_old.json
+experiments/real_motion_traces/real_scan_results/metrics_old.json
+
+# Local reproducibility checks (keep these out of the published repository).
+/experiments/motion_type_investigation/test_*.py

@@ -169,7 +169,8 @@ class MotionSimulation:
         k_space_signal = fftshift(fftn(fftshift(self.image))).flatten()
         # calculate the rotated grid motion
         rotated_k_array, rotation_matrices = self.calculate_rotated_grid_motion(inverse=True)
-        rotated_k_array = rotated_k_array.T
+        # FINUFFT requires C-contiguous coordinate arrays
+        rotated_k_array = np.ascontiguousarray(rotated_k_array.T)
         # calculate the phase ramp motion
         if phase_ramp_adjust:
             phase_ramp = self.calculate_phase_ramp_motion(rotation_matrices)
@@ -181,7 +182,7 @@ class MotionSimulation:
         f = np.zeros(self.image.shape, dtype=np.complex128)
         finufft.nufft3d1(rotated_k_array[0], rotated_k_array[1], rotated_k_array[2], k_space_signal,
                          eps=eps, out=f, debug=0, spread_debug=0, spread_sort=2, fftw=0, modeord=0,
-                         chkbnds=0, upsampfac=1.25, isign= 1)
+                         upsampfac=1.25, isign= 1)
         # normalize the image
         f = f/f.size
         if magnitude:
@@ -190,16 +191,17 @@ class MotionSimulation:
 
     def type2_nufft_algorithm(self, magnitude=True, eps=1E-7):
         # calculate the rotated grid motion
-        rotated_k_array = self.calculate_rotated_grid_motion()[0].T
+        # FINUFFT requires C-contiguous coordinate arrays
+        rotated_k_array = np.ascontiguousarray(self.calculate_rotated_grid_motion()[0].T)
 
         # calculate the phase ramp motion
         phase_ramp = self.calculate_phase_ramp_motion()
         # calculate the k-space data
         f = np.zeros(rotated_k_array[0].shape, dtype=np.complex128).flatten()
-        ip = self.image.astype(complex)
+        ip = np.ascontiguousarray(self.image, dtype=np.complex128)
         finufft.nufft3d2(rotated_k_array[0], rotated_k_array[1], rotated_k_array[2], ip,
                          eps=eps, out=f, debug=0, spread_debug=0, spread_sort=2, fftw=0, modeord=0,
-                         chkbnds=0, upsampfac=1.25, isign=-1)
+                         upsampfac=1.25, isign=-1)
 
         f = f * phase_ramp
         f = f.reshape(ip.shape)
