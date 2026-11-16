@@ -5,7 +5,7 @@ import nibabel as nib
 import numpy as np
 import json
 import SimpleITK as sitk
-from numpy.fft import fftshift, fftn, ifftn
+from scipy.fft import fftshift, fftn, ifftn
 import os
 
 class MotionSimulation:
@@ -60,11 +60,11 @@ class MotionSimulation:
         corrupted_signal = np.zeros(self.image.GetSize(), dtype=complex)
 
         for i in range(len(time_points) - 1):
-            k_space_signal = fftshift(fftn(fftshift(transformed_images[i])))
+            k_space_signal = fftshift(fftn(fftshift(transformed_images[i]), workers=6))
             # TODO: allow specifying the acquisition trajectory and change phase encoding direction
             corrupted_signal[:, time_points[i]:time_points[i+1], :] = k_space_signal[:, time_points[i]:time_points[i+1], :]
             
-        motion_corrupted_image = fftshift(ifftn(fftshift(corrupted_signal)))
+        motion_corrupted_image = fftshift(ifftn(fftshift(corrupted_signal), workers=6))
         if magnitude:
             motion_corrupted_image = np.abs(motion_corrupted_image)
         return motion_corrupted_image
