@@ -1,0 +1,40 @@
+"""Run the complete random-jitter simulation experiment."""
+
+from pathlib import Path
+
+from experiments.utils.figure_output import configure_figure_output
+from experiments.motion_type_investigation.experiment import run_experiment
+from experiments.motion_type_investigation.random_jitter.random_jitter_trajectory import (
+    DEFAULT_BASE_SEED,
+    DEFAULT_NUMBER_OF_TRAJECTORIES,
+    SEVERITY_SETTINGS,
+    create_random_jitter_trajectory,
+)
+
+
+HERE = Path(__file__).resolve().parent
+SCAN_SELECTION = "both"
+SAVE_SIMULATED_IMAGES = True
+SAVE_TRAJECTORIES = True
+PLOT_TRAJECTORIES = True
+
+
+def main():
+    return run_experiment(
+        motion_type="random_jitter",
+        create_trajectory=create_random_jitter_trajectory,
+        severity_settings=SEVERITY_SETTINGS,
+        base_seed=DEFAULT_BASE_SEED,
+        number_of_repeats=DEFAULT_NUMBER_OF_TRAJECTORIES,
+        working_directory=HERE,
+        metadata=lambda settings, _info: settings.copy(),
+        scan_selection=SCAN_SELECTION,
+        save_simulated_images=SAVE_SIMULATED_IMAGES,
+        save_trajectory=SAVE_TRAJECTORIES,
+        plot_trajectory=PLOT_TRAJECTORIES,
+    )
+
+
+if __name__ == "__main__":
+    configure_figure_output()
+    main()

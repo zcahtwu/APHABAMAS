@@ -1079,3 +1079,363 @@ stepwise,high,20,SSIM,Image-based,0.9764814771096888
 stepwise,high,20,RMSD,Type 1,0.03820618653823537
 stepwise,high,20,RMSD,Type 2,0.01890598127197405
 stepwise,high,20,RMSD,Image-based,0.031452280741316306
+random_jitter,low,1,SSIM,Type 1,0.9023026059093703
+random_jitter,low,1,SSIM,Type 2,0.9813868615102531
+random_jitter,low,1,SSIM,Image-based,0.9539079702116057
+random_jitter,low,1,RMSD,Type 1,0.027093197982557625
+random_jitter,low,1,RMSD,Type 2,0.012996074641268942
+random_jitter,low,1,RMSD,Image-based,0.026978383173832415
+random_jitter,low,2,SSIM,Type 1,0.8858433404909521
+random_jitter,low,2,SSIM,Type 2,0.9824896908661779
+random_jitter,low,2,SSIM,Image-based,0.9620457555289643
+random_jitter,low,2,RMSD,Type 1,0.02937062011806477
+random_jitter,low,2,RMSD,Type 2,0.011693946219888597
+random_jitter,low,2,RMSD,Image-based,0.025467138137539525
+random_jitter,low,3,SSIM,Type 1,0.8838067477826796
+random_jitter,low,3,SSIM,Type 2,0.9808986205143374
+random_jitter,low,3,SSIM,Image-based,0.9568264248659627
+random_jitter,low,3,RMSD,Type 1,0.03114304177462366
+random_jitter,low,3,RMSD,Type 2,0.012629672362566322
+random_jitter,low,3,RMSD,Image-based,0.027006038507519495
+random_jitter,low,4,SSIM,Type 1,0.8898846397090829
+random_jitter,low,4,SSIM,Type 2,0.9825343792981174
+random_jitter,low,4,SSIM,Image-based,0.9593306205258951
+random_jitter,low,4,RMSD,Type 1,0.029146370115546102
+random_jitter,low,4,RMSD,Type 2,0.011754502082867716
+random_jitter,low,4,RMSD,Image-based,0.025075379161153124
+random_jitter,low,5,SSIM,Type 1,0.9054387148206575
+random_jitter,low,5,SSIM,Type 2,0.9818817815438025
+random_jitter,low,5,SSIM,Image-based,0.9532100688643558
+random_jitter,low,5,RMSD,Type 1,0.028135496546006805
+random_jitter,low,5,RMSD,Type 2,0.01298117859915127
+random_jitter,low,5,RMSD,Image-based,0.02764017773600731
+random_jitter,low,6,SSIM,Type 1,0.8909255847940253
+random_jitter,low,6,SSIM,Type 2,0.9819162926123637
+random_jitter,low,6,SSIM,Image-based,0.9575232171301532
+random_jitter,low,6,RMSD,Type 1,0.029253153223320897
+random_jitter,low,6,RMSD,Type 2,0.01214448016787318
+random_jitter,low,6,RMSD,Image-based,0.02654852783806152
+random_jitter,low,7,SSIM,Type 1,0.8864279600716973
+random_jitter,low,7,SSIM,Type 2,0.9811962625881062
+random_jitter,low,7,SSIM,Image-based,0.9581889911792091
+random_jitter,low,7,RMSD,Type 1,0.03002032953713416
+random_jitter,low,7,RMSD,Type 2,0.012217155121268489
+random_jitter,low,7,RMSD,Image-based,0.026204463246017464
+random_jitter,low,8,SSIM,Type 1,0.9036632007566772
+random_jitter,low,8,SSIM,Type 2,0.9832779639605044
+random_jitter,low,8,SSIM,Image-based,0.95723607602596
+random_jitter,low,8,RMSD,Type 1,0.026784570094828368
+random_jitter,low,8,RMSD,Type 2,0.011843440347834466
+random_jitter,low,8,RMSD,Image-based,0.025475678238247448
+random_jitter,low,9,SSIM,Type 1,0.8874064996375991
+random_jitter,low,9,SSIM,Type 2,0.9799528215835782
+random_jitter,low,9,SSIM,Image-based,0.9536521140552873
+random_jitter,low,9,RMSD,Type 1,0.03101970832410359
+random_jitter,low,9,RMSD,Type 2,0.014120652066074168
+random_jitter,low,9,RMSD,Image-based,0.02839895597854681
+random_jitter,low,10,SSIM,Type 1,0.8786100695566814
+random_jitter,low,10,SSIM,Type 2,0.982154318637449
+random_jitter,low,10,SSIM,Image-based,0.9614337109486255
+random_jitter,low,10,RMSD,Type 1,0.030119950894520024
+random_jitter,low,10,RMSD,Type 2,0.0115355747939109
+random_jitter,low,10,RMSD,Image-based,0.02478900197548416
+random_jitter,low,11,SSIM,Type 1,0.888097422207521
+random_jitter,low,11,SSIM,Type 2,0.9823726291336097
+random_jitter,low,11,SSIM,Image-based,0.9601673822381139
+random_jitter,low,11,RMSD,Type 1,0.029231224399807895
+random_jitter,low,11,RMSD,Type 2,0.011629481035741228
+random_jitter,low,11,RMSD,Image-based,0.02575747387453175
+random_jitter,low,12,SSIM,Type 1,0.8938588974376286
+random_jitter,low,12,SSIM,Type 2,0.9830385290189041
+random_jitter,low,12,SSIM,Image-based,0.9626461268277238
+random_jitter,low,12,RMSD,Type 1,0.027645345340482654
+random_jitter,low,12,RMSD,Type 2,0.011124060309939553
+random_jitter,low,12,RMSD,Image-based,0.02469870775242699
+random_jitter,low,13,SSIM,Type 1,0.874987755608362
+random_jitter,low,13,SSIM,Type 2,0.9814253187202773
+random_jitter,low,13,SSIM,Image-based,0.9578267940838308
+random_jitter,low,13,RMSD,Type 1,0.032152131908068794
+random_jitter,low,13,RMSD,Type 2,0.012097757311390992
+random_jitter,low,13,RMSD,Image-based,0.026621510377025624
+random_jitter,low,14,SSIM,Type 1,0.8937827334761653
+random_jitter,low,14,SSIM,Type 2,0.9826571906291043
+random_jitter,low,14,SSIM,Image-based,0.9640113149790752
+random_jitter,low,14,RMSD,Type 1,0.02677919129737692
+random_jitter,low,14,RMSD,Type 2,0.010971298815727457
+random_jitter,low,14,RMSD,Image-based,0.02387519534649685
+random_jitter,low,15,SSIM,Type 1,0.894326460972473
+random_jitter,low,15,SSIM,Type 2,0.9811034064928058
+random_jitter,low,15,SSIM,Image-based,0.9543393088573373
+random_jitter,low,15,RMSD,Type 1,0.029425675057774277
+random_jitter,low,15,RMSD,Type 2,0.012671587316547652
+random_jitter,low,15,RMSD,Image-based,0.027336507473519917
+random_jitter,low,16,SSIM,Type 1,0.8795179979506803
+random_jitter,low,16,SSIM,Type 2,0.9812043344238273
+random_jitter,low,16,SSIM,Image-based,0.9585745295457349
+random_jitter,low,16,RMSD,Type 1,0.029604879839479677
+random_jitter,low,16,RMSD,Type 2,0.012052235322019596
+random_jitter,low,16,RMSD,Image-based,0.026404599683721792
+random_jitter,low,17,SSIM,Type 1,0.891494471218921
+random_jitter,low,17,SSIM,Type 2,0.9816086441164397
+random_jitter,low,17,SSIM,Image-based,0.9573900098973454
+random_jitter,low,17,RMSD,Type 1,0.02871552713690444
+random_jitter,low,17,RMSD,Type 2,0.012681546426078397
+random_jitter,low,17,RMSD,Image-based,0.026913556122940635
+random_jitter,low,18,SSIM,Type 1,0.8780433823196252
+random_jitter,low,18,SSIM,Type 2,0.9822315454939464
+random_jitter,low,18,SSIM,Image-based,0.9606582534373473
+random_jitter,low,18,RMSD,Type 1,0.030959420910267484
+random_jitter,low,18,RMSD,Type 2,0.011936272317986142
+random_jitter,low,18,RMSD,Image-based,0.02585876129801773
+random_jitter,low,19,SSIM,Type 1,0.874311184288314
+random_jitter,low,19,SSIM,Type 2,0.980310506876579
+random_jitter,low,19,SSIM,Image-based,0.9527292026593068
+random_jitter,low,19,RMSD,Type 1,0.03202519165785336
+random_jitter,low,19,RMSD,Type 2,0.012844059259987708
+random_jitter,low,19,RMSD,Image-based,0.027986935794144425
+random_jitter,low,20,SSIM,Type 1,0.8986861252171358
+random_jitter,low,20,SSIM,Type 2,0.9825572347346023
+random_jitter,low,20,SSIM,Image-based,0.9550145140486852
+random_jitter,low,20,RMSD,Type 1,0.027162245391860924
+random_jitter,low,20,RMSD,Type 2,0.012042210718622524
+random_jitter,low,20,RMSD,Image-based,0.025533996613801763
+random_jitter,medium,1,SSIM,Type 1,0.8315500275695565
+random_jitter,medium,1,SSIM,Type 2,0.9739251086307124
+random_jitter,medium,1,SSIM,Image-based,0.9307524236158616
+random_jitter,medium,1,RMSD,Type 1,0.04666748687353593
+random_jitter,medium,1,RMSD,Type 2,0.01859359998602276
+random_jitter,medium,1,RMSD,Image-based,0.036038846236250456
+random_jitter,medium,2,SSIM,Type 1,0.8062969185480873
+random_jitter,medium,2,SSIM,Type 2,0.975338218872649
+random_jitter,medium,2,SSIM,Image-based,0.9403314818254537
+random_jitter,medium,2,RMSD,Type 1,0.050758717388064756
+random_jitter,medium,2,RMSD,Type 2,0.017274790440848495
+random_jitter,medium,2,RMSD,Image-based,0.03466689665807221
+random_jitter,medium,3,SSIM,Type 1,0.8059557882121713
+random_jitter,medium,3,SSIM,Type 2,0.9741760517008275
+random_jitter,medium,3,SSIM,Image-based,0.9348405011728586
+random_jitter,medium,3,RMSD,Type 1,0.05362599884372542
+random_jitter,medium,3,RMSD,Type 2,0.01829799353660332
+random_jitter,medium,3,RMSD,Image-based,0.0356853585880644
+random_jitter,medium,4,SSIM,Type 1,0.8123264201199981
+random_jitter,medium,4,SSIM,Type 2,0.9745641326281949
+random_jitter,medium,4,SSIM,Image-based,0.9364783406144463
+random_jitter,medium,4,RMSD,Type 1,0.050419833361978694
+random_jitter,medium,4,RMSD,Type 2,0.01747852644147292
+random_jitter,medium,4,RMSD,Image-based,0.03478773886900133
+random_jitter,medium,5,SSIM,Type 1,0.8375443422971166
+random_jitter,medium,5,SSIM,Type 2,0.974873870264292
+random_jitter,medium,5,SSIM,Image-based,0.9351298110097519
+random_jitter,medium,5,RMSD,Type 1,0.04892162275745798
+random_jitter,medium,5,RMSD,Type 2,0.01907237329090839
+random_jitter,medium,5,RMSD,Image-based,0.036620768295486716
+random_jitter,medium,6,SSIM,Type 1,0.8141037039505558
+random_jitter,medium,6,SSIM,Type 2,0.9740694074183546
+random_jitter,medium,6,SSIM,Image-based,0.9351886627947209
+random_jitter,medium,6,RMSD,Type 1,0.05022881983180123
+random_jitter,medium,6,RMSD,Type 2,0.018170710996823096
+random_jitter,medium,6,RMSD,Image-based,0.03592326115744242
+random_jitter,medium,7,SSIM,Type 1,0.8103782366426815
+random_jitter,medium,7,SSIM,Type 2,0.9740577234110882
+random_jitter,medium,7,SSIM,Image-based,0.9370284882459551
+random_jitter,medium,7,RMSD,Type 1,0.05111847928116465
+random_jitter,medium,7,RMSD,Type 2,0.017789870912750572
+random_jitter,medium,7,RMSD,Image-based,0.034960910157500504
+random_jitter,medium,8,SSIM,Type 1,0.8274714147656697
+random_jitter,medium,8,SSIM,Type 2,0.9754262042564251
+random_jitter,medium,8,SSIM,Image-based,0.934286040638266
+random_jitter,medium,8,RMSD,Type 1,0.04686257305155976
+random_jitter,medium,8,RMSD,Type 2,0.017757925927303683
+random_jitter,medium,8,RMSD,Image-based,0.03525469999091428
+random_jitter,medium,9,SSIM,Type 1,0.8058188970729901
+random_jitter,medium,9,SSIM,Type 2,0.9735915325039544
+random_jitter,medium,9,SSIM,Image-based,0.9347462638227764
+random_jitter,medium,9,RMSD,Type 1,0.05317736519505827
+random_jitter,medium,9,RMSD,Type 2,0.019254890448640382
+random_jitter,medium,9,RMSD,Image-based,0.03657117434097527
+random_jitter,medium,10,SSIM,Type 1,0.7984434720667488
+random_jitter,medium,10,SSIM,Type 2,0.9737935887048209
+random_jitter,medium,10,SSIM,Image-based,0.9365036552580203
+random_jitter,medium,10,RMSD,Type 1,0.05091008692341521
+random_jitter,medium,10,RMSD,Type 2,0.017074750051110994
+random_jitter,medium,10,RMSD,Image-based,0.03413918844865838
+random_jitter,medium,11,SSIM,Type 1,0.811312145594996
+random_jitter,medium,11,SSIM,Type 2,0.9748647817804085
+random_jitter,medium,11,SSIM,Image-based,0.9372853627918268
+random_jitter,medium,11,RMSD,Type 1,0.05104389214766107
+random_jitter,medium,11,RMSD,Type 2,0.0173402077858047
+random_jitter,medium,11,RMSD,Image-based,0.03485898483902191
+random_jitter,medium,12,SSIM,Type 1,0.813868204677247
+random_jitter,medium,12,SSIM,Type 2,0.9744267737737979
+random_jitter,medium,12,SSIM,Image-based,0.938995447882035
+random_jitter,medium,12,RMSD,Type 1,0.04817574791872245
+random_jitter,medium,12,RMSD,Type 2,0.016927820806034565
+random_jitter,medium,12,RMSD,Image-based,0.034409604398403355
+random_jitter,medium,13,SSIM,Type 1,0.793526719131928
+random_jitter,medium,13,SSIM,Type 2,0.9740360704787071
+random_jitter,medium,13,SSIM,Image-based,0.9342669298655188
+random_jitter,medium,13,RMSD,Type 1,0.05583929371001123
+random_jitter,medium,13,RMSD,Type 2,0.017842160155675385
+random_jitter,medium,13,RMSD,Image-based,0.03559888527733869
+random_jitter,medium,14,SSIM,Type 1,0.8137186115048497
+random_jitter,medium,14,SSIM,Type 2,0.973879700570458
+random_jitter,medium,14,SSIM,Image-based,0.9396270776143236
+random_jitter,medium,14,RMSD,Type 1,0.04612299249968451
+random_jitter,medium,14,RMSD,Type 2,0.01653006602762978
+random_jitter,medium,14,RMSD,Image-based,0.03344936312655814
+random_jitter,medium,15,SSIM,Type 1,0.8186871626470762
+random_jitter,medium,15,SSIM,Type 2,0.973970793686582
+random_jitter,medium,15,SSIM,Image-based,0.934282497135172
+random_jitter,medium,15,RMSD,Type 1,0.050900909375254204
+random_jitter,medium,15,RMSD,Type 2,0.01836605275349183
+random_jitter,medium,15,RMSD,Image-based,0.03592073647670214
+random_jitter,medium,16,SSIM,Type 1,0.7954928609765765
+random_jitter,medium,16,SSIM,Type 2,0.9738166999242788
+random_jitter,medium,16,SSIM,Image-based,0.9348812761278771
+random_jitter,medium,16,RMSD,Type 1,0.050466565300549576
+random_jitter,medium,16,RMSD,Type 2,0.017612174403060097
+random_jitter,medium,16,RMSD,Image-based,0.03543822595655687
+random_jitter,medium,17,SSIM,Type 1,0.8129835620315489
+random_jitter,medium,17,SSIM,Type 2,0.975043679052488
+random_jitter,medium,17,SSIM,Image-based,0.9371578635475181
+random_jitter,medium,17,RMSD,Type 1,0.048726347054266726
+random_jitter,medium,17,RMSD,Type 2,0.018121296389853027
+random_jitter,medium,17,RMSD,Image-based,0.03539643546095574
+random_jitter,medium,18,SSIM,Type 1,0.7930888702428726
+random_jitter,medium,18,SSIM,Type 2,0.9747805968061086
+random_jitter,medium,18,SSIM,Image-based,0.9390510993452319
+random_jitter,medium,18,RMSD,Type 1,0.05325027368463667
+random_jitter,medium,18,RMSD,Type 2,0.017503198034649586
+random_jitter,medium,18,RMSD,Image-based,0.034852363272453384
+random_jitter,medium,19,SSIM,Type 1,0.7901385515846276
+random_jitter,medium,19,SSIM,Type 2,0.9735937816935959
+random_jitter,medium,19,SSIM,Image-based,0.9306231402546338
+random_jitter,medium,19,RMSD,Type 1,0.05415294032839955
+random_jitter,medium,19,RMSD,Type 2,0.018362433882356824
+random_jitter,medium,19,RMSD,Image-based,0.03632181212388908
+random_jitter,medium,20,SSIM,Type 1,0.8215476121557289
+random_jitter,medium,20,SSIM,Type 2,0.9743976595257889
+random_jitter,medium,20,SSIM,Image-based,0.9313842649810833
+random_jitter,medium,20,RMSD,Type 1,0.04715550225583053
+random_jitter,medium,20,RMSD,Type 2,0.017863645452738254
+random_jitter,medium,20,RMSD,Image-based,0.03471491096372415
+random_jitter,high,1,SSIM,Type 1,0.7840775781841238
+random_jitter,high,1,SSIM,Type 2,0.9741977459709239
+random_jitter,high,1,SSIM,Image-based,0.9299346404982962
+random_jitter,high,1,RMSD,Type 1,0.062120697093184546
+random_jitter,high,1,RMSD,Type 2,0.020212177047788507
+random_jitter,high,1,RMSD,Image-based,0.03715968371508657
+random_jitter,high,2,SSIM,Type 1,0.7548299446449633
+random_jitter,high,2,SSIM,Type 2,0.9750019183896171
+random_jitter,high,2,SSIM,Image-based,0.9346995461194846
+random_jitter,high,2,RMSD,Type 1,0.0675501213505345
+random_jitter,high,2,RMSD,Type 2,0.019419162013985882
+random_jitter,high,2,RMSD,Image-based,0.03679947979589053
+random_jitter,high,3,SSIM,Type 1,0.7566221823432872
+random_jitter,high,3,SSIM,Type 2,0.9743199325784772
+random_jitter,high,3,SSIM,Image-based,0.9321611560612858
+random_jitter,high,3,RMSD,Type 1,0.07143703701529289
+random_jitter,high,3,RMSD,Type 2,0.020142312121264105
+random_jitter,high,3,RMSD,Image-based,0.03698397815377105
+random_jitter,high,4,SSIM,Type 1,0.7655995700122887
+random_jitter,high,4,SSIM,Type 2,0.9738510648663266
+random_jitter,high,4,SSIM,Image-based,0.9332625915721033
+random_jitter,high,4,RMSD,Type 1,0.06648313632937566
+random_jitter,high,4,RMSD,Type 2,0.019692141465539385
+random_jitter,high,4,RMSD,Image-based,0.036811557495323825
+random_jitter,high,5,SSIM,Type 1,0.7956454052748713
+random_jitter,high,5,SSIM,Type 2,0.9755308232313936
+random_jitter,high,5,SSIM,Image-based,0.936746499105426
+random_jitter,high,5,RMSD,Type 1,0.065129955668345
+random_jitter,high,5,RMSD,Type 2,0.020492526387223518
+random_jitter,high,5,RMSD,Image-based,0.0372063229413545
+random_jitter,high,6,SSIM,Type 1,0.7667554966725848
+random_jitter,high,6,SSIM,Type 2,0.974306586144688
+random_jitter,high,6,SSIM,Image-based,0.9331999446683288
+random_jitter,high,6,RMSD,Type 1,0.0661312190855659
+random_jitter,high,6,RMSD,Type 2,0.02011690711841754
+random_jitter,high,6,RMSD,Image-based,0.0372764390428133
+random_jitter,high,7,SSIM,Type 1,0.76229716948829
+random_jitter,high,7,SSIM,Type 2,0.9741619555970628
+random_jitter,high,7,SSIM,Image-based,0.9333112563366547
+random_jitter,high,7,RMSD,Type 1,0.06739680529749502
+random_jitter,high,7,RMSD,Type 2,0.0197785125713869
+random_jitter,high,7,RMSD,Image-based,0.03661653769248636
+random_jitter,high,8,SSIM,Type 1,0.7779743578902586
+random_jitter,high,8,SSIM,Type 2,0.9748778494879544
+random_jitter,high,8,SSIM,Image-based,0.9314410910987242
+random_jitter,high,8,RMSD,Type 1,0.06261292273520176
+random_jitter,high,8,RMSD,Type 2,0.019950324638759245
+random_jitter,high,8,RMSD,Image-based,0.03727332267497325
+random_jitter,high,9,SSIM,Type 1,0.7552400064271174
+random_jitter,high,9,SSIM,Type 2,0.9744957047339311
+random_jitter,high,9,SSIM,Image-based,0.9357965407551859
+random_jitter,high,9,RMSD,Type 1,0.07067212124183594
+random_jitter,high,9,RMSD,Type 2,0.020498083148670694
+random_jitter,high,9,RMSD,Image-based,0.037005753837900786
+random_jitter,high,10,SSIM,Type 1,0.7469852993313768
+random_jitter,high,10,SSIM,Type 2,0.9732004270720799
+random_jitter,high,10,SSIM,Image-based,0.9296941776094396
+random_jitter,high,10,RMSD,Type 1,0.06665257950994745
+random_jitter,high,10,RMSD,Type 2,0.01926994016195496
+random_jitter,high,10,RMSD,Image-based,0.036677411496414465
+random_jitter,high,11,SSIM,Type 1,0.7637072119393211
+random_jitter,high,11,SSIM,Type 2,0.9745149659200629
+random_jitter,high,11,SSIM,Image-based,0.9329054344972896
+random_jitter,high,11,RMSD,Type 1,0.06814686927941725
+random_jitter,high,11,RMSD,Type 2,0.019568459424138897
+random_jitter,high,11,RMSD,Image-based,0.036829233679479
+random_jitter,high,12,SSIM,Type 1,0.7633153228694128
+random_jitter,high,12,SSIM,Type 2,0.973620567418148
+random_jitter,high,12,SSIM,Image-based,0.9331804631480973
+random_jitter,high,12,RMSD,Type 1,0.06420721840368644
+random_jitter,high,12,RMSD,Type 2,0.019435706974930345
+random_jitter,high,12,RMSD,Image-based,0.036828426335131614
+random_jitter,high,13,SSIM,Type 1,0.7423938417780998
+random_jitter,high,13,SSIM,Type 2,0.9740979798782835
+random_jitter,high,13,SSIM,Image-based,0.9299324481430887
+random_jitter,high,13,RMSD,Type 1,0.07420419552460843
+random_jitter,high,13,RMSD,Type 2,0.01980031365563113
+random_jitter,high,13,RMSD,Image-based,0.03716732246235079
+random_jitter,high,14,SSIM,Type 1,0.7614608225438744
+random_jitter,high,14,SSIM,Type 2,0.973397259828128
+random_jitter,high,14,SSIM,Image-based,0.9325254388331028
+random_jitter,high,14,RMSD,Type 1,0.06150009971453597
+random_jitter,high,14,RMSD,Type 2,0.019026890153578294
+random_jitter,high,14,RMSD,Image-based,0.036373235846915625
+random_jitter,high,15,SSIM,Type 1,0.7688158817622305
+random_jitter,high,15,SSIM,Type 2,0.9745152432019591
+random_jitter,high,15,SSIM,Image-based,0.9326984569549931
+random_jitter,high,15,RMSD,Type 1,0.06776201718733663
+random_jitter,high,15,RMSD,Type 2,0.019954546586052894
+random_jitter,high,15,RMSD,Image-based,0.03710993517870463
+random_jitter,high,16,SSIM,Type 1,0.746411769097598
+random_jitter,high,16,SSIM,Type 2,0.973855599675781
+random_jitter,high,16,SSIM,Image-based,0.9313853740925624
+random_jitter,high,16,RMSD,Type 1,0.06621219464670836
+random_jitter,high,16,RMSD,Type 2,0.019541088754312763
+random_jitter,high,16,RMSD,Image-based,0.03700237583606193
+random_jitter,high,17,SSIM,Type 1,0.7640300515605111
+random_jitter,high,17,SSIM,Type 2,0.9753666026790746
+random_jitter,high,17,SSIM,Image-based,0.9350759003365043
+random_jitter,high,17,RMSD,Type 1,0.06423580195446771
+random_jitter,high,17,RMSD,Type 2,0.019800718943903516
+random_jitter,high,17,RMSD,Image-based,0.036611480611159625
+random_jitter,high,18,SSIM,Type 1,0.7410547878531386
+random_jitter,high,18,SSIM,Type 2,0.9746693743684525
+random_jitter,high,18,SSIM,Image-based,0.9345076238038478
+random_jitter,high,18,RMSD,Type 1,0.0705043839711402
+random_jitter,high,18,RMSD,Type 2,0.019637651415808616
+random_jitter,high,18,RMSD,Image-based,0.03681976411969758
+random_jitter,high,19,SSIM,Type 1,0.7376939591847144
+random_jitter,high,19,SSIM,Type 2,0.9741431031679607
+random_jitter,high,19,SSIM,Image-based,0.9305854297660251
+random_jitter,high,19,RMSD,Type 1,0.07096557774016934
+random_jitter,high,19,RMSD,Type 2,0.020009199237635517
+random_jitter,high,19,RMSD,Image-based,0.03696587679877043
+random_jitter,high,20,SSIM,Type 1,0.7742766513528245
+random_jitter,high,20,SSIM,Type 2,0.9740294263611652
+random_jitter,high,20,SSIM,Image-based,0.9293353986913451
+random_jitter,high,20,RMSD,Type 1,0.06263784317669542
+random_jitter,high,20,RMSD,Type 2,0.019775409706683747
+random_jitter,high,20,RMSD,Image-based,0.03643806186899275

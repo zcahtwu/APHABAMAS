@@ -2,6 +2,7 @@ from pathlib import Path
 
 import numpy as np
 
+from experiments.utils.figure_output import configure_figure_output
 from experiments.motion_type_investigation.trajectory_io import (
     generate_all,
     save_outputs,
@@ -98,5 +99,6 @@ def create_stepwise_trajectory(
 
 
 if __name__ == '__main__':
+    configure_figure_output()
     generate_all(create_stepwise_trajectory, SEVERITY_SETTINGS,
                  DEFAULT_NUMBER_OF_TRAJECTORIES, DEFAULT_BASE_SEED)

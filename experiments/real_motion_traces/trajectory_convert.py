@@ -22,7 +22,7 @@ def to_seconds(timestamp):
 
 
 def convert_tracking_data(data):
-    """Convert one tracking record without changing its sampling logic."""
+    """Sample the nearest recorded pose at each acquisition time, starting at the reference pose."""
     motion = data["MotionData"][0]
     start = to_seconds(motion["TimeStamp"][0])
     recorded_times = np.array([

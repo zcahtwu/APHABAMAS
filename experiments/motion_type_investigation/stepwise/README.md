@@ -2,9 +2,7 @@
 
 [Controlled motion](../) · [Scan inputs](../motion_free_scans/)
 
-Sustained pose changes are separated by periods at a fixed pose. Low, medium,
-and high severity use 2–3, 4–5, and 6–7 steps with maximum translation/rotation
-norms of 1, 3, and 5 mm/degrees, with 20 trajectories each.
+Sustained pose changes are separated by periods at a fixed pose. Low, medium, and high severity use 2–3, 4–5, and 6–7 steps with maximum translation/rotation norms of 1, 3, and 5 mm/degrees, with 20 trajectories each.
 
 ## Run
 
@@ -22,6 +20,4 @@ python -m experiments.motion_type_investigation.stepwise.stepwise
 
 ## Outputs
 
-Trajectory JSONs and SVGs go to `trajectories/`; metrics and optional simulation
-images go to `results/`. Settings are in [stepwise.py](stepwise.py).
-Continue with the [combined analysis](../#analyse-and-plot).
+Trajectory JSONs and SVGs go to `trajectories/`; metrics and optional simulation images go to `results/`. Settings are in [stepwise.py](stepwise.py). Continue with the [combined analysis](../#analyse-and-plot).

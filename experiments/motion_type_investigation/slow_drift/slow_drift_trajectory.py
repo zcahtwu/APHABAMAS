@@ -3,6 +3,7 @@ from pathlib import Path
 import numpy as np
 from scipy.interpolate import PchipInterpolator
 
+from experiments.utils.figure_output import configure_figure_output
 from experiments.motion_type_investigation.trajectory_io import (
     generate_all,
     save_outputs,
@@ -135,5 +136,6 @@ def create_slow_drift_trajectory(
 
 
 if __name__ == '__main__':
+    configure_figure_output()
     generate_all(create_slow_drift_trajectory, SEVERITIES,
                  DEFAULT_NUMBER_OF_TRAJECTORIES, DEFAULT_BASE_SEED)

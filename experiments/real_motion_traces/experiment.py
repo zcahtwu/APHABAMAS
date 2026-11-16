@@ -39,7 +39,7 @@ def _signal(image):
 
 def simulate(image_path, matrix_size, trajectory, time_points, k_space_time,
              phantom):
-    """Run the original simulations in their established call order."""
+    """Simulate a measured trajectory and return reconstructed images and k-space signals."""
     images, signals = {}, {}
 
     if phantom:
@@ -105,7 +105,7 @@ def metric_keys(phantom):
 
 
 def calculate_metrics(images, phantom):
-    """Return metrics in the same key order as the existing JSON files."""
+    """Calculate SSIM and RMSD for ground-truth and algorithm-pair comparisons."""
     metrics = {}
     if phantom:
         for metric in ("SSIM", "RMSD"):
@@ -137,7 +137,7 @@ def run_experiment(
     phantom=False,
     save_simulated_outputs=True,
 ):
-    """Run every converted trajectory and retain the established output schema."""
+    """Run every converted trajectory and save metrics and optional simulation outputs."""
     image_path = Path(image_path)
     output_directory = Path(output_directory)
     output_directory.mkdir(parents=True, exist_ok=True)

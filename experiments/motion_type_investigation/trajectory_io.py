@@ -21,7 +21,7 @@ def save_outputs(
     save_trajectory,
     plot_trajectory,
 ):
-    """Save one trajectory using the repository's established schema."""
+    """Save trajectory metadata, pose samples, and time boundaries as JSON and an optional plot."""
     if not (save_trajectory or plot_trajectory):
         return
     output_folder = Path(output_folder)

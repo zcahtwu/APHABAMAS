@@ -6,11 +6,14 @@ import numpy as np
 import pandas as pd
 from scipy import stats
 
+from experiments.utils.figure_output import configure_figure_output, save_figure
+
 
 MOTION_TYPES = {
     'slow_drift': 'Slow drift',
     'spikes': 'Spikes',
-    'stepwise': 'Step-wise'
+    'stepwise': 'Step-wise',
+    'random_jitter': 'Random jitter'
 }
 SEVERITIES = ['low', 'medium', 'high']
 METHODS = {
@@ -52,7 +55,7 @@ def metric_column(metric, method):
 
 
 def make_plotting_table(dataframe):
-    """Convert the phantom metrics to the tidy table consumed by Figure 8."""
+    """Prepare quantitative accuracy assessment metrics for Figure 9 and SI."""
     rows = []
     for record in dataframe.to_dict('records'):
         for metric in METRICS:
@@ -158,7 +161,8 @@ def test_algorithm_differences(dataframe):
 
             fig.suptitle(f'{MOTION_TYPES[motion_type]} — {severity.capitalize()}')
             fig.tight_layout(rect=[0, 0, 1, 0.94])
-            fig.savefig(
+            save_figure(
+                fig,
                 normality_folder / f'{motion_type}_{severity}_paired_differences.svg',
                 dpi=300
             )
@@ -170,6 +174,7 @@ def test_algorithm_differences(dataframe):
 
 
 if __name__ == '__main__':
+    configure_figure_output()
     output_folder.mkdir(parents=True, exist_ok=True)
     phantom_metrics = load_phantom_metrics()
     plotting_table = make_plotting_table(phantom_metrics)

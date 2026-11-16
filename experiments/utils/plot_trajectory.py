@@ -2,6 +2,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.ticker import MultipleLocator
 
+from experiments.utils.figure_output import save_figure
+
 
 def plot_motion_trajectory(trajectory, time_points, output_path, title=None):
     """Plot translation and rotation using the trajectory-figure style."""
@@ -68,5 +70,5 @@ def plot_motion_trajectory(trajectory, time_points, output_path, title=None):
             fig.suptitle(title, y=0.98)
 
         fig.tight_layout(rect=[0, 0, 1, 0.92])
-        fig.savefig(output_path, dpi=300)
+        save_figure(fig, output_path, dpi=300)
         plt.close(fig)

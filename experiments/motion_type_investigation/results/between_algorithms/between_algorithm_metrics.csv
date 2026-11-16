@@ -1079,6 +1079,366 @@ real_brain,stepwise,Step-wise,high,17,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba
 real_brain,stepwise,Step-wise,high,18,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.025855410611789895
 real_brain,stepwise,Step-wise,high,19,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.03765091212687864
 real_brain,stepwise,Step-wise,high,20,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.029699894923373774
+real_brain,random_jitter,Random jitter,low,1,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9675778842287819
+real_brain,random_jitter,Random jitter,low,2,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9705402710333385
+real_brain,random_jitter,Random jitter,low,3,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9686521001533402
+real_brain,random_jitter,Random jitter,low,4,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9719001552279585
+real_brain,random_jitter,Random jitter,low,5,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.967914752570116
+real_brain,random_jitter,Random jitter,low,6,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9704119965370523
+real_brain,random_jitter,Random jitter,low,7,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9691797918019529
+real_brain,random_jitter,Random jitter,low,8,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9713351049759876
+real_brain,random_jitter,Random jitter,low,9,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9679894352046721
+real_brain,random_jitter,Random jitter,low,10,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9710022220213436
+real_brain,random_jitter,Random jitter,low,11,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9699406405560405
+real_brain,random_jitter,Random jitter,low,12,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9703949170084628
+real_brain,random_jitter,Random jitter,low,13,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9685315375357904
+real_brain,random_jitter,Random jitter,low,14,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9734256053391762
+real_brain,random_jitter,Random jitter,low,15,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.968935765975225
+real_brain,random_jitter,Random jitter,low,16,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9680517354877085
+real_brain,random_jitter,Random jitter,low,17,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9700802918492802
+real_brain,random_jitter,Random jitter,low,18,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9709668706514999
+real_brain,random_jitter,Random jitter,low,19,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9680322377011734
+real_brain,random_jitter,Random jitter,low,20,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9685351560933411
+real_brain,random_jitter,Random jitter,low,1,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9129585089946107
+real_brain,random_jitter,Random jitter,low,2,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8988320441741823
+real_brain,random_jitter,Random jitter,low,3,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8993396923564091
+real_brain,random_jitter,Random jitter,low,4,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.905801198334236
+real_brain,random_jitter,Random jitter,low,5,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9154120051899096
+real_brain,random_jitter,Random jitter,low,6,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9028791951158858
+real_brain,random_jitter,Random jitter,low,7,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9009329934786957
+real_brain,random_jitter,Random jitter,low,8,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9139542202061343
+real_brain,random_jitter,Random jitter,low,9,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9042480713205953
+real_brain,random_jitter,Random jitter,low,10,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9033327632044307
+real_brain,random_jitter,Random jitter,low,11,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9049069181216625
+real_brain,random_jitter,Random jitter,low,12,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9083752885355206
+real_brain,random_jitter,Random jitter,low,13,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8982806991554075
+real_brain,random_jitter,Random jitter,low,14,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9078172241134621
+real_brain,random_jitter,Random jitter,low,15,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9075728038910776
+real_brain,random_jitter,Random jitter,low,16,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9049354866014515
+real_brain,random_jitter,Random jitter,low,17,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9110535356859839
+real_brain,random_jitter,Random jitter,low,18,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8994487514565688
+real_brain,random_jitter,Random jitter,low,19,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8992570816394521
+real_brain,random_jitter,Random jitter,low,20,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.9126446595072238
+real_brain,random_jitter,Random jitter,low,1,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9409852818484191
+real_brain,random_jitter,Random jitter,low,2,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9257712628945609
+real_brain,random_jitter,Random jitter,low,3,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9278680682217474
+real_brain,random_jitter,Random jitter,low,4,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9319176027520201
+real_brain,random_jitter,Random jitter,low,5,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9418013382827135
+real_brain,random_jitter,Random jitter,low,6,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9307500529667705
+real_brain,random_jitter,Random jitter,low,7,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9288922850318813
+real_brain,random_jitter,Random jitter,low,8,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9419183453715799
+real_brain,random_jitter,Random jitter,low,9,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9325178028462682
+real_brain,random_jitter,Random jitter,low,10,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9286916465972459
+real_brain,random_jitter,Random jitter,low,11,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9325213270768126
+real_brain,random_jitter,Random jitter,low,12,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9352103357709135
+real_brain,random_jitter,Random jitter,low,13,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9239966248680715
+real_brain,random_jitter,Random jitter,low,14,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9349624295813788
+real_brain,random_jitter,Random jitter,low,15,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9323572343929436
+real_brain,random_jitter,Random jitter,low,16,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9330320122580006
+real_brain,random_jitter,Random jitter,low,17,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9376306846936819
+real_brain,random_jitter,Random jitter,low,18,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9253594470632829
+real_brain,random_jitter,Random jitter,low,19,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9267603901196175
+real_brain,random_jitter,Random jitter,low,20,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9407902458483631
+real_brain,random_jitter,Random jitter,low,1,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.022123001258010748
+real_brain,random_jitter,Random jitter,low,2,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.021580887835842156
+real_brain,random_jitter,Random jitter,low,3,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.022365301221281806
+real_brain,random_jitter,Random jitter,low,4,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02086083485387685
+real_brain,random_jitter,Random jitter,low,5,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02278264237395259
+real_brain,random_jitter,Random jitter,low,6,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.021817511529067628
+real_brain,random_jitter,Random jitter,low,7,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.021934018366167613
+real_brain,random_jitter,Random jitter,low,8,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02101986779440539
+real_brain,random_jitter,Random jitter,low,9,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02286750830202221
+real_brain,random_jitter,Random jitter,low,10,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.020905492716252975
+real_brain,random_jitter,Random jitter,low,11,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.021448039467447347
+real_brain,random_jitter,Random jitter,low,12,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.020841473829360576
+real_brain,random_jitter,Random jitter,low,13,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02244265396718065
+real_brain,random_jitter,Random jitter,low,14,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.020132992267147445
+real_brain,random_jitter,Random jitter,low,15,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02250508514361489
+real_brain,random_jitter,Random jitter,low,16,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.022001522063849963
+real_brain,random_jitter,Random jitter,low,17,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02201739780176848
+real_brain,random_jitter,Random jitter,low,18,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.021216540769715762
+real_brain,random_jitter,Random jitter,low,19,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02315170076881977
+real_brain,random_jitter,Random jitter,low,20,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02142331980672449
+real_brain,random_jitter,Random jitter,low,1,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.030294235023328772
+real_brain,random_jitter,Random jitter,low,2,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03262351758118227
+real_brain,random_jitter,Random jitter,low,3,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03359160345597789
+real_brain,random_jitter,Random jitter,low,4,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.031404230410217185
+real_brain,random_jitter,Random jitter,low,5,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03133765951617425
+real_brain,random_jitter,Random jitter,low,6,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03233692575644187
+real_brain,random_jitter,Random jitter,low,7,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03257401519765251
+real_brain,random_jitter,Random jitter,low,8,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.029864089059491165
+real_brain,random_jitter,Random jitter,low,9,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03333209397348047
+real_brain,random_jitter,Random jitter,low,10,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03169857722140196
+real_brain,random_jitter,Random jitter,low,11,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.031544968331360355
+real_brain,random_jitter,Random jitter,low,12,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03031057404138319
+real_brain,random_jitter,Random jitter,low,13,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.033910918713439285
+real_brain,random_jitter,Random jitter,low,14,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03000797754868465
+real_brain,random_jitter,Random jitter,low,15,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03256645756588415
+real_brain,random_jitter,Random jitter,low,16,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.031967426567079654
+real_brain,random_jitter,Random jitter,low,17,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03115272830165567
+real_brain,random_jitter,Random jitter,low,18,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03267336429000172
+real_brain,random_jitter,Random jitter,low,19,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03430530285385571
+real_brain,random_jitter,Random jitter,low,20,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.030161707710393462
+real_brain,random_jitter,Random jitter,low,1,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.021558347315725566
+real_brain,random_jitter,Random jitter,low,2,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02487388611014794
+real_brain,random_jitter,Random jitter,low,3,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02558504090868978
+real_brain,random_jitter,Random jitter,low,4,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.023988295989066814
+real_brain,random_jitter,Random jitter,low,5,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.022524712099351897
+real_brain,random_jitter,Random jitter,low,6,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.024158340982700664
+real_brain,random_jitter,Random jitter,low,7,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02446842255506928
+real_brain,random_jitter,Random jitter,low,8,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.021580330172283547
+real_brain,random_jitter,Random jitter,low,9,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.024860501382595268
+real_brain,random_jitter,Random jitter,low,10,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.024575969146178992
+real_brain,random_jitter,Random jitter,low,11,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.023782833029204545
+real_brain,random_jitter,Random jitter,low,12,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.022633814696124476
+real_brain,random_jitter,Random jitter,low,13,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02617384699194752
+real_brain,random_jitter,Random jitter,low,14,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02273135882863009
+real_brain,random_jitter,Random jitter,low,15,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02442248624179518
+real_brain,random_jitter,Random jitter,low,16,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.023990177786868048
+real_brain,random_jitter,Random jitter,low,17,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02286099811402139
+real_brain,random_jitter,Random jitter,low,18,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.025356735716130365
+real_brain,random_jitter,Random jitter,low,19,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02588446707171377
+real_brain,random_jitter,Random jitter,low,20,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02200209787444936
+real_brain,random_jitter,Random jitter,medium,1,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9606406519092469
+real_brain,random_jitter,Random jitter,medium,2,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.961936052545844
+real_brain,random_jitter,Random jitter,medium,3,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9633878696198707
+real_brain,random_jitter,Random jitter,medium,4,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9633378136922297
+real_brain,random_jitter,Random jitter,medium,5,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9628660691218309
+real_brain,random_jitter,Random jitter,medium,6,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9634081376903507
+real_brain,random_jitter,Random jitter,medium,7,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9618375739627096
+real_brain,random_jitter,Random jitter,medium,8,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9611346474081862
+real_brain,random_jitter,Random jitter,medium,9,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9621936637237155
+real_brain,random_jitter,Random jitter,medium,10,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9613145822807102
+real_brain,random_jitter,Random jitter,medium,11,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.962160261667091
+real_brain,random_jitter,Random jitter,medium,12,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9613029704103074
+real_brain,random_jitter,Random jitter,medium,13,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9617793871498141
+real_brain,random_jitter,Random jitter,medium,14,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9637337583221005
+real_brain,random_jitter,Random jitter,medium,15,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9640909115312281
+real_brain,random_jitter,Random jitter,medium,16,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9601413389022037
+real_brain,random_jitter,Random jitter,medium,17,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.962225994762317
+real_brain,random_jitter,Random jitter,medium,18,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9630725618305842
+real_brain,random_jitter,Random jitter,medium,19,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9622301723763232
+real_brain,random_jitter,Random jitter,medium,20,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9602384800821276
+real_brain,random_jitter,Random jitter,medium,1,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8681272157468645
+real_brain,random_jitter,Random jitter,medium,2,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8478799127700946
+real_brain,random_jitter,Random jitter,medium,3,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8496064644739841
+real_brain,random_jitter,Random jitter,medium,4,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.858076503866451
+real_brain,random_jitter,Random jitter,medium,5,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8710623515142023
+real_brain,random_jitter,Random jitter,medium,6,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8553865980663536
+real_brain,random_jitter,Random jitter,medium,7,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8529070482026316
+real_brain,random_jitter,Random jitter,medium,8,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8665132812786623
+real_brain,random_jitter,Random jitter,medium,9,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8583334482486532
+real_brain,random_jitter,Random jitter,medium,10,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8523007836897011
+real_brain,random_jitter,Random jitter,medium,11,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8549543445588303
+real_brain,random_jitter,Random jitter,medium,12,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8595913343311962
+real_brain,random_jitter,Random jitter,medium,13,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8455674612288916
+real_brain,random_jitter,Random jitter,medium,14,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8605851009302184
+real_brain,random_jitter,Random jitter,medium,15,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8607417601267
+real_brain,random_jitter,Random jitter,medium,16,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8565044878776172
+real_brain,random_jitter,Random jitter,medium,17,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8658996959931696
+real_brain,random_jitter,Random jitter,medium,18,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8477572618277938
+real_brain,random_jitter,Random jitter,medium,19,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.850800565483074
+real_brain,random_jitter,Random jitter,medium,20,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8656634540316525
+real_brain,random_jitter,Random jitter,medium,1,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8895169195759417
+real_brain,random_jitter,Random jitter,medium,2,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8691742963097678
+real_brain,random_jitter,Random jitter,medium,3,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8704697487446351
+real_brain,random_jitter,Random jitter,medium,4,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8785263111927827
+real_brain,random_jitter,Random jitter,medium,5,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8914167041838239
+real_brain,random_jitter,Random jitter,medium,6,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8766455140918932
+real_brain,random_jitter,Random jitter,medium,7,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8738600289562736
+real_brain,random_jitter,Random jitter,medium,8,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8899133403265421
+real_brain,random_jitter,Random jitter,medium,9,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8784056449934996
+real_brain,random_jitter,Random jitter,medium,10,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8728206556736295
+real_brain,random_jitter,Random jitter,medium,11,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8766243121326599
+real_brain,random_jitter,Random jitter,medium,12,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8809607340352335
+real_brain,random_jitter,Random jitter,medium,13,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8636818946284552
+real_brain,random_jitter,Random jitter,medium,14,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8841874195713487
+real_brain,random_jitter,Random jitter,medium,15,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8786316849768764
+real_brain,random_jitter,Random jitter,medium,16,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8788035001220261
+real_brain,random_jitter,Random jitter,medium,17,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8855642163971983
+real_brain,random_jitter,Random jitter,medium,18,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8671244627596366
+real_brain,random_jitter,Random jitter,medium,19,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8705446869031893
+real_brain,random_jitter,Random jitter,medium,20,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8884697214720716
+real_brain,random_jitter,Random jitter,medium,1,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027549731545377824
+real_brain,random_jitter,Random jitter,medium,2,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02736055015264084
+real_brain,random_jitter,Random jitter,medium,3,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02725952361866081
+real_brain,random_jitter,Random jitter,medium,4,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027004585008050135
+real_brain,random_jitter,Random jitter,medium,5,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027989904278346484
+real_brain,random_jitter,Random jitter,medium,6,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027370175761543596
+real_brain,random_jitter,Random jitter,medium,7,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027263923053547776
+real_brain,random_jitter,Random jitter,medium,8,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027282833997055927
+real_brain,random_jitter,Random jitter,medium,9,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027717236046250128
+real_brain,random_jitter,Random jitter,medium,10,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.026930139696857567
+real_brain,random_jitter,Random jitter,medium,11,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02716906057101639
+real_brain,random_jitter,Random jitter,medium,12,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.026939654557155385
+real_brain,random_jitter,Random jitter,medium,13,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027771972723669932
+real_brain,random_jitter,Random jitter,medium,14,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02633083359570477
+real_brain,random_jitter,Random jitter,medium,15,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02741607123406872
+real_brain,random_jitter,Random jitter,medium,16,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.0276841023052216
+real_brain,random_jitter,Random jitter,medium,17,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027255799049599787
+real_brain,random_jitter,Random jitter,medium,18,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.026867782299139508
+real_brain,random_jitter,Random jitter,medium,19,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02784231224066741
+real_brain,random_jitter,Random jitter,medium,20,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027026616603690785
+real_brain,random_jitter,Random jitter,medium,1,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.04568337692796042
+real_brain,random_jitter,Random jitter,medium,2,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05088952702396832
+real_brain,random_jitter,Random jitter,medium,3,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.051688307883340424
+real_brain,random_jitter,Random jitter,medium,4,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0487207058724217
+real_brain,random_jitter,Random jitter,medium,5,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.047328439623733794
+real_brain,random_jitter,Random jitter,medium,6,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.04969237205454768
+real_brain,random_jitter,Random jitter,medium,7,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.04959553598854402
+real_brain,random_jitter,Random jitter,medium,8,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0464245858227637
+real_brain,random_jitter,Random jitter,medium,9,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05058782709294298
+real_brain,random_jitter,Random jitter,medium,10,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0494497316079412
+real_brain,random_jitter,Random jitter,medium,11,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.04932322689648553
+real_brain,random_jitter,Random jitter,medium,12,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.04733525765348639
+real_brain,random_jitter,Random jitter,medium,13,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.052500909875573334
+real_brain,random_jitter,Random jitter,medium,14,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.046638831495501756
+real_brain,random_jitter,Random jitter,medium,15,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.04939654951780322
+real_brain,random_jitter,Random jitter,medium,16,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.04863031013703285
+real_brain,random_jitter,Random jitter,medium,17,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.047132812402999776
+real_brain,random_jitter,Random jitter,medium,18,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05097194637464621
+real_brain,random_jitter,Random jitter,medium,19,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05152014378187433
+real_brain,random_jitter,Random jitter,medium,20,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.04601473901446017
+real_brain,random_jitter,Random jitter,medium,1,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.03882063324083425
+real_brain,random_jitter,Random jitter,medium,2,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04436353397758485
+real_brain,random_jitter,Random jitter,medium,3,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.045643747169280484
+real_brain,random_jitter,Random jitter,medium,4,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.042228036560456345
+real_brain,random_jitter,Random jitter,medium,5,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.040711662733536595
+real_brain,random_jitter,Random jitter,medium,6,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.042990615189531185
+real_brain,random_jitter,Random jitter,medium,7,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04308148838173094
+real_brain,random_jitter,Random jitter,medium,8,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.039089856195348126
+real_brain,random_jitter,Random jitter,medium,9,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.044350449964735444
+real_brain,random_jitter,Random jitter,medium,10,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04322104924824252
+real_brain,random_jitter,Random jitter,medium,11,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04291956089514945
+real_brain,random_jitter,Random jitter,medium,12,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04065160060470397
+real_brain,random_jitter,Random jitter,medium,13,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04652307561618882
+real_brain,random_jitter,Random jitter,medium,14,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.03997631251038583
+real_brain,random_jitter,Random jitter,medium,15,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04341378940123095
+real_brain,random_jitter,Random jitter,medium,16,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04206061229577007
+real_brain,random_jitter,Random jitter,medium,17,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.040887934673646056
+real_brain,random_jitter,Random jitter,medium,18,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04490445443348695
+real_brain,random_jitter,Random jitter,medium,19,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04544139985101413
+real_brain,random_jitter,Random jitter,medium,20,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.03933916492014136
+real_brain,random_jitter,Random jitter,high,1,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9652143181331012
+real_brain,random_jitter,Random jitter,high,2,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9647487470440426
+real_brain,random_jitter,Random jitter,high,3,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9672772256115453
+real_brain,random_jitter,Random jitter,high,4,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9658469639720353
+real_brain,random_jitter,Random jitter,high,5,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9675043117061564
+real_brain,random_jitter,Random jitter,high,6,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9660027003805651
+real_brain,random_jitter,Random jitter,high,7,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9655445244476188
+real_brain,random_jitter,Random jitter,high,8,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.96330199801185
+real_brain,random_jitter,Random jitter,high,9,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.966811749716128
+real_brain,random_jitter,Random jitter,high,10,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9633659541288786
+real_brain,random_jitter,Random jitter,high,11,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9656899855749977
+real_brain,random_jitter,Random jitter,high,12,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9652187869849458
+real_brain,random_jitter,Random jitter,high,13,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9653769340513757
+real_brain,random_jitter,Random jitter,high,14,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.965162452701101
+real_brain,random_jitter,Random jitter,high,15,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9674116509519913
+real_brain,random_jitter,Random jitter,high,16,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9643534086341323
+real_brain,random_jitter,Random jitter,high,17,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9654351215278762
+real_brain,random_jitter,Random jitter,high,18,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9651967670983491
+real_brain,random_jitter,Random jitter,high,19,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9662896856477972
+real_brain,random_jitter,Random jitter,high,20,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9646853070767847
+real_brain,random_jitter,Random jitter,high,1,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8412289743986361
+real_brain,random_jitter,Random jitter,high,2,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8173327448727945
+real_brain,random_jitter,Random jitter,high,3,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.818197459862771
+real_brain,random_jitter,Random jitter,high,4,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8279933553642661
+real_brain,random_jitter,Random jitter,high,5,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8433464880012613
+real_brain,random_jitter,Random jitter,high,6,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8274231134808243
+real_brain,random_jitter,Random jitter,high,7,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8237391701428958
+real_brain,random_jitter,Random jitter,high,8,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.838323901551125
+real_brain,random_jitter,Random jitter,high,9,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8300594223979333
+real_brain,random_jitter,Random jitter,high,10,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8222056282467768
+real_brain,random_jitter,Random jitter,high,11,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8262949253709377
+real_brain,random_jitter,Random jitter,high,12,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8299036346551006
+real_brain,random_jitter,Random jitter,high,13,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8136150943919344
+real_brain,random_jitter,Random jitter,high,14,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8330955398320559
+real_brain,random_jitter,Random jitter,high,15,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8318491398498519
+real_brain,random_jitter,Random jitter,high,16,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8274285405266261
+real_brain,random_jitter,Random jitter,high,17,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8380387348668413
+real_brain,random_jitter,Random jitter,high,18,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8177266810915065
+real_brain,random_jitter,Random jitter,high,19,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8204978724270442
+real_brain,random_jitter,Random jitter,high,20,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8383436766205044
+real_brain,random_jitter,Random jitter,high,1,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8525511890403676
+real_brain,random_jitter,Random jitter,high,2,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8306776690579094
+real_brain,random_jitter,Random jitter,high,3,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8306518904445144
+real_brain,random_jitter,Random jitter,high,4,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8406929257473669
+real_brain,random_jitter,Random jitter,high,5,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8546152962419059
+real_brain,random_jitter,Random jitter,high,6,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8396543263841565
+real_brain,random_jitter,Random jitter,high,7,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8351185877649276
+real_brain,random_jitter,Random jitter,high,8,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8527065901658069
+real_brain,random_jitter,Random jitter,high,9,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8406941373418167
+real_brain,random_jitter,Random jitter,high,10,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8348557091447827
+real_brain,random_jitter,Random jitter,high,11,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8381315585492765
+real_brain,random_jitter,Random jitter,high,12,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8429782087805748
+real_brain,random_jitter,Random jitter,high,13,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8221666924411348
+real_brain,random_jitter,Random jitter,high,14,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8484982036529062
+real_brain,random_jitter,Random jitter,high,15,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8415978390715606
+real_brain,random_jitter,Random jitter,high,16,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8409482831801828
+real_brain,random_jitter,Random jitter,high,17,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8486141236530662
+real_brain,random_jitter,Random jitter,high,18,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8287844408445204
+real_brain,random_jitter,Random jitter,high,19,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8316761360425835
+real_brain,random_jitter,Random jitter,high,20,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8511966993663937
+real_brain,random_jitter,Random jitter,high,1,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02726531924201546
+real_brain,random_jitter,Random jitter,high,2,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027484251885624367
+real_brain,random_jitter,Random jitter,high,3,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.026948170482815247
+real_brain,random_jitter,Random jitter,high,4,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027318319380320977
+real_brain,random_jitter,Random jitter,high,5,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02737283719546419
+real_brain,random_jitter,Random jitter,high,6,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027279128767955383
+real_brain,random_jitter,Random jitter,high,7,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027233431019774903
+real_brain,random_jitter,Random jitter,high,8,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02762972871992499
+real_brain,random_jitter,Random jitter,high,9,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.0271455946531965
+real_brain,random_jitter,Random jitter,high,10,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.0276414301488363
+real_brain,random_jitter,Random jitter,high,11,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027464246689817236
+real_brain,random_jitter,Random jitter,high,12,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02718774355420948
+real_brain,random_jitter,Random jitter,high,13,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027535361035121844
+real_brain,random_jitter,Random jitter,high,14,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027252428769416224
+real_brain,random_jitter,Random jitter,high,15,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027409512074922378
+real_brain,random_jitter,Random jitter,high,16,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02767536307131666
+real_brain,random_jitter,Random jitter,high,17,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027168500820072945
+real_brain,random_jitter,Random jitter,high,18,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027297048170368033
+real_brain,random_jitter,Random jitter,high,19,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027262686768215964
+real_brain,random_jitter,Random jitter,high,20,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027093003784201063
+real_brain,random_jitter,Random jitter,high,1,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.055765524929196696
+real_brain,random_jitter,Random jitter,high,2,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06298435063930857
+real_brain,random_jitter,Random jitter,high,3,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06440228271819579
+real_brain,random_jitter,Random jitter,high,4,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0599450259714372
+real_brain,random_jitter,Random jitter,high,5,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05815728109923219
+real_brain,random_jitter,Random jitter,high,6,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06087807241980814
+real_brain,random_jitter,Random jitter,high,7,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06102696656882303
+real_brain,random_jitter,Random jitter,high,8,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05719418968276887
+real_brain,random_jitter,Random jitter,high,9,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0625844821307454
+real_brain,random_jitter,Random jitter,high,10,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.061207793571668
+real_brain,random_jitter,Random jitter,high,11,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06164799285942895
+real_brain,random_jitter,Random jitter,high,12,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.058698561685491354
+real_brain,random_jitter,Random jitter,high,13,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06520780089020198
+real_brain,random_jitter,Random jitter,high,14,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0576873760928566
+real_brain,random_jitter,Random jitter,high,15,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06093655583264219
+real_brain,random_jitter,Random jitter,high,16,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05966057377014968
+real_brain,random_jitter,Random jitter,high,17,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05813876690902206
+real_brain,random_jitter,Random jitter,high,18,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06312965271734124
+real_brain,random_jitter,Random jitter,high,19,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06288249765626475
+real_brain,random_jitter,Random jitter,high,20,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05672571854624805
+real_brain,random_jitter,Random jitter,high,1,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.052570255028206066
+real_brain,random_jitter,Random jitter,high,2,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.05944312048678355
+real_brain,random_jitter,Random jitter,high,3,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06148297237923314
+real_brain,random_jitter,Random jitter,high,4,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.0564292753317489
+real_brain,random_jitter,Random jitter,high,5,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.05547674110649855
+real_brain,random_jitter,Random jitter,high,6,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.0574073982853609
+real_brain,random_jitter,Random jitter,high,7,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.05775142612241053
+real_brain,random_jitter,Random jitter,high,8,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.053162804093472155
+real_brain,random_jitter,Random jitter,high,9,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.059789984822710356
+real_brain,random_jitter,Random jitter,high,10,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.0576135772488254
+real_brain,random_jitter,Random jitter,high,11,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.058147465863638
+real_brain,random_jitter,Random jitter,high,12,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.05491640518666614
+real_brain,random_jitter,Random jitter,high,13,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06243605704610814
+real_brain,random_jitter,Random jitter,high,14,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.05351042554268684
+real_brain,random_jitter,Random jitter,high,15,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.058268397409065406
+real_brain,random_jitter,Random jitter,high,16,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.05618487758744909
+real_brain,random_jitter,Random jitter,high,17,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.05531651090878611
+real_brain,random_jitter,Random jitter,high,18,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.05985564577680174
+real_brain,random_jitter,Random jitter,high,19,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06034426897798559
+real_brain,random_jitter,Random jitter,high,20,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.053290145979039666
 phantom,slow_drift,Slow drift,low,1,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.982967840751904
 phantom,slow_drift,Slow drift,low,2,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9833019979512171
 phantom,slow_drift,Slow drift,low,3,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9884795275216135
@@ -2159,3 +2519,363 @@ phantom,stepwise,Step-wise,high,17,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.
 phantom,stepwise,Step-wise,high,18,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.029386264251450932
 phantom,stepwise,Step-wise,high,19,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.03943662154794269
 phantom,stepwise,Step-wise,high,20,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.03346425483941056
+phantom,random_jitter,Random jitter,low,1,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9602639293036372
+phantom,random_jitter,Random jitter,low,2,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9659315230074867
+phantom,random_jitter,Random jitter,low,3,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9612194069870561
+phantom,random_jitter,Random jitter,low,4,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9640950500918146
+phantom,random_jitter,Random jitter,low,5,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9608351284050796
+phantom,random_jitter,Random jitter,low,6,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9622169973914718
+phantom,random_jitter,Random jitter,low,7,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9627199098634779
+phantom,random_jitter,Random jitter,low,8,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.963564913236864
+phantom,random_jitter,Random jitter,low,9,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9595278777094335
+phantom,random_jitter,Random jitter,low,10,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9648073936313492
+phantom,random_jitter,Random jitter,low,11,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9641941627933237
+phantom,random_jitter,Random jitter,low,12,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9659495644112617
+phantom,random_jitter,Random jitter,low,13,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9622071046652472
+phantom,random_jitter,Random jitter,low,14,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9672663395631456
+phantom,random_jitter,Random jitter,low,15,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9594389389921816
+phantom,random_jitter,Random jitter,low,16,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9620663828023428
+phantom,random_jitter,Random jitter,low,17,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9622604330492566
+phantom,random_jitter,Random jitter,low,18,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9642655334855141
+phantom,random_jitter,Random jitter,low,19,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.95800729925561
+phantom,random_jitter,Random jitter,low,20,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9611351974171402
+phantom,random_jitter,Random jitter,low,1,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8788602992828011
+phantom,random_jitter,Random jitter,low,2,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8641311425227912
+phantom,random_jitter,Random jitter,low,3,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8631255807013603
+phantom,random_jitter,Random jitter,low,4,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.867772900107264
+phantom,random_jitter,Random jitter,low,5,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8831141715216433
+phantom,random_jitter,Random jitter,low,6,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.868257820012541
+phantom,random_jitter,Random jitter,low,7,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.864589193299402
+phantom,random_jitter,Random jitter,low,8,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8806717189441944
+phantom,random_jitter,Random jitter,low,9,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8655918467433987
+phantom,random_jitter,Random jitter,low,10,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.856429481805541
+phantom,random_jitter,Random jitter,low,11,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.866572147003577
+phantom,random_jitter,Random jitter,low,12,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8734231308099449
+phantom,random_jitter,Random jitter,low,13,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8519778992598428
+phantom,random_jitter,Random jitter,low,14,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8767152359385653
+phantom,random_jitter,Random jitter,low,15,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8712705999419597
+phantom,random_jitter,Random jitter,low,16,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8594693987440387
+phantom,random_jitter,Random jitter,low,17,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8723639745893224
+phantom,random_jitter,Random jitter,low,18,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8592243166226854
+phantom,random_jitter,Random jitter,low,19,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.850780797027461
+phantom,random_jitter,Random jitter,low,20,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8730604600499691
+phantom,random_jitter,Random jitter,low,1,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9105513494066516
+phantom,random_jitter,Random jitter,low,2,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8929691182795798
+phantom,random_jitter,Random jitter,low,3,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8915079327219881
+phantom,random_jitter,Random jitter,low,4,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8964695819714286
+phantom,random_jitter,Random jitter,low,5,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9138924644662826
+phantom,random_jitter,Random jitter,low,6,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8987632013946499
+phantom,random_jitter,Random jitter,low,7,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8941448835357113
+phantom,random_jitter,Random jitter,low,8,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9112079770002468
+phantom,random_jitter,Random jitter,low,9,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8958673218488389
+phantom,random_jitter,Random jitter,low,10,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8861229655678942
+phantom,random_jitter,Random jitter,low,11,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8952500549716611
+phantom,random_jitter,Random jitter,low,12,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9004622310270887
+phantom,random_jitter,Random jitter,low,13,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8822703244517099
+phantom,random_jitter,Random jitter,low,14,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9024983565689513
+phantom,random_jitter,Random jitter,low,15,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9024656348417086
+phantom,random_jitter,Random jitter,low,16,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.887697722305475
+phantom,random_jitter,Random jitter,low,17,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9002183417997303
+phantom,random_jitter,Random jitter,low,18,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8852859918556827
+phantom,random_jitter,Random jitter,low,19,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8822945035351154
+phantom,random_jitter,Random jitter,low,20,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.9059983429683112
+phantom,random_jitter,Random jitter,low,1,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.023373681515884762
+phantom,random_jitter,Random jitter,low,2,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.022689084166328876
+phantom,random_jitter,Random jitter,low,3,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02369083200765586
+phantom,random_jitter,Random jitter,low,4,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.0221735633217757
+phantom,random_jitter,Random jitter,low,5,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.023776170758604505
+phantom,random_jitter,Random jitter,low,6,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02338894833270318
+phantom,random_jitter,Random jitter,low,7,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.023229743403254243
+phantom,random_jitter,Random jitter,low,8,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.022305609602142073
+phantom,random_jitter,Random jitter,low,9,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02436142949755108
+phantom,random_jitter,Random jitter,low,10,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.022171304339494203
+phantom,random_jitter,Random jitter,low,11,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02297077033702686
+phantom,random_jitter,Random jitter,low,12,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.022193068367142355
+phantom,random_jitter,Random jitter,low,13,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.023645691336931538
+phantom,random_jitter,Random jitter,low,14,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02140725633445799
+phantom,random_jitter,Random jitter,low,15,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.0238824762370035
+phantom,random_jitter,Random jitter,low,16,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.023529128904040245
+phantom,random_jitter,Random jitter,low,17,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.023604484289536435
+phantom,random_jitter,Random jitter,low,18,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.022972768902335003
+phantom,random_jitter,Random jitter,low,19,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.024581988452698336
+phantom,random_jitter,Random jitter,low,20,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02235566395972055
+phantom,random_jitter,Random jitter,low,1,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.033799131423547506
+phantom,random_jitter,Random jitter,low,2,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.035976228999985566
+phantom,random_jitter,Random jitter,low,3,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03767000605587734
+phantom,random_jitter,Random jitter,low,4,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03529313170252588
+phantom,random_jitter,Random jitter,low,5,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03493336846468135
+phantom,random_jitter,Random jitter,low,6,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.036061445478535376
+phantom,random_jitter,Random jitter,low,7,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03654015295523798
+phantom,random_jitter,Random jitter,low,8,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.033116430470538846
+phantom,random_jitter,Random jitter,low,9,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.037238039725978236
+phantom,random_jitter,Random jitter,low,10,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.036180007856256156
+phantom,random_jitter,Random jitter,low,11,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.035891862453981536
+phantom,random_jitter,Random jitter,low,12,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03413176042095995
+phantom,random_jitter,Random jitter,low,13,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03886670915665634
+phantom,random_jitter,Random jitter,low,14,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03263374697715362
+phantom,random_jitter,Random jitter,low,15,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03618868703396766
+phantom,random_jitter,Random jitter,low,16,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03605398253628104
+phantom,random_jitter,Random jitter,low,17,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.035029869613477385
+phantom,random_jitter,Random jitter,low,18,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03711422745932134
+phantom,random_jitter,Random jitter,low,19,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.03879255780026935
+phantom,random_jitter,Random jitter,low,20,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.033623040750009874
+phantom,random_jitter,Random jitter,low,1,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.025032867154878683
+phantom,random_jitter,Random jitter,low,2,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.028103436488175117
+phantom,random_jitter,Random jitter,low,3,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02971459097333649
+phantom,random_jitter,Random jitter,low,4,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.027923295943796913
+phantom,random_jitter,Random jitter,low,5,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.026158970643989577
+phantom,random_jitter,Random jitter,low,6,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02778087197540103
+phantom,random_jitter,Random jitter,low,7,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02858297075126168
+phantom,random_jitter,Random jitter,low,8,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.025108904804220483
+phantom,random_jitter,Random jitter,low,9,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.028914755514199936
+phantom,random_jitter,Random jitter,low,10,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.028899269045220936
+phantom,random_jitter,Random jitter,low,11,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.027987245739572005
+phantom,random_jitter,Random jitter,low,12,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.026476892586283128
+phantom,random_jitter,Random jitter,low,13,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.030984325692699523
+phantom,random_jitter,Random jitter,low,14,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.025401438809153857
+phantom,random_jitter,Random jitter,low,15,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02775607427470863
+phantom,random_jitter,Random jitter,low,16,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02820458598898173
+phantom,random_jitter,Random jitter,low,17,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.02682559416458498
+phantom,random_jitter,Random jitter,low,18,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.029692520892112276
+phantom,random_jitter,Random jitter,low,19,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.03052755825085393
+phantom,random_jitter,Random jitter,low,20,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.025585579576563603
+phantom,random_jitter,Random jitter,medium,1,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9452619942825299
+phantom,random_jitter,Random jitter,medium,2,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9515153420353588
+phantom,random_jitter,Random jitter,medium,3,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9486583643873783
+phantom,random_jitter,Random jitter,medium,4,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9488908991698795
+phantom,random_jitter,Random jitter,medium,5,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9506922368004392
+phantom,random_jitter,Random jitter,medium,6,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9479300243910255
+phantom,random_jitter,Random jitter,medium,7,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9492165940344421
+phantom,random_jitter,Random jitter,medium,8,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.948417745430817
+phantom,random_jitter,Random jitter,medium,9,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9492579276845611
+phantom,random_jitter,Random jitter,medium,10,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9479648315254129
+phantom,random_jitter,Random jitter,medium,11,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9496588852207084
+phantom,random_jitter,Random jitter,medium,12,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9494052399780771
+phantom,random_jitter,Random jitter,medium,13,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9473597071577551
+phantom,random_jitter,Random jitter,medium,14,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9497333317477609
+phantom,random_jitter,Random jitter,medium,15,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9483624882263019
+phantom,random_jitter,Random jitter,medium,16,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9466348939985194
+phantom,random_jitter,Random jitter,medium,17,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9495383447211417
+phantom,random_jitter,Random jitter,medium,18,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9501231321980753
+phantom,random_jitter,Random jitter,medium,19,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9449448903248363
+phantom,random_jitter,Random jitter,medium,20,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.945681265430002
+phantom,random_jitter,Random jitter,medium,1,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8163275482032909
+phantom,random_jitter,Random jitter,medium,2,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7899994202564934
+phantom,random_jitter,Random jitter,medium,3,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.793206856262531
+phantom,random_jitter,Random jitter,medium,4,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7969549568481626
+phantom,random_jitter,Random jitter,medium,5,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8257192082845505
+phantom,random_jitter,Random jitter,medium,6,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7999092067413287
+phantom,random_jitter,Random jitter,medium,7,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7963674919924247
+phantom,random_jitter,Random jitter,medium,8,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8116575517971094
+phantom,random_jitter,Random jitter,medium,9,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7955820580628673
+phantom,random_jitter,Random jitter,medium,10,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7797841957359982
+phantom,random_jitter,Random jitter,medium,11,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7978995185029255
+phantom,random_jitter,Random jitter,medium,12,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7992747010394392
+phantom,random_jitter,Random jitter,medium,13,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7783076180174516
+phantom,random_jitter,Random jitter,medium,14,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8016996410679467
+phantom,random_jitter,Random jitter,medium,15,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8044628793889816
+phantom,random_jitter,Random jitter,medium,16,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.782679729613971
+phantom,random_jitter,Random jitter,medium,17,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8024031854174296
+phantom,random_jitter,Random jitter,medium,18,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7817468006618843
+phantom,random_jitter,Random jitter,medium,19,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7748173195012893
+phantom,random_jitter,Random jitter,medium,20,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.8030647598045244
+phantom,random_jitter,Random jitter,medium,1,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8422773295369671
+phantom,random_jitter,Random jitter,medium,2,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8144361553794454
+phantom,random_jitter,Random jitter,medium,3,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8152042432354979
+phantom,random_jitter,Random jitter,medium,4,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8213713016955165
+phantom,random_jitter,Random jitter,medium,5,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8490697953471279
+phantom,random_jitter,Random jitter,medium,6,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8241271230839284
+phantom,random_jitter,Random jitter,medium,7,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8188481892531865
+phantom,random_jitter,Random jitter,medium,8,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8378930289040875
+phantom,random_jitter,Random jitter,medium,9,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8165002244058049
+phantom,random_jitter,Random jitter,medium,10,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8068030560830262
+phantom,random_jitter,Random jitter,medium,11,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8202997814724242
+phantom,random_jitter,Random jitter,medium,12,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8230084788649084
+phantom,random_jitter,Random jitter,medium,13,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8017201043593157
+phantom,random_jitter,Random jitter,medium,14,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8249851614873607
+phantom,random_jitter,Random jitter,medium,15,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8286239319113526
+phantom,random_jitter,Random jitter,medium,16,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8056215139712511
+phantom,random_jitter,Random jitter,medium,17,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8233090507573607
+phantom,random_jitter,Random jitter,medium,18,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8022723078733566
+phantom,random_jitter,Random jitter,medium,19,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.799763491448376
+phantom,random_jitter,Random jitter,medium,20,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.831140627725017
+phantom,random_jitter,Random jitter,medium,1,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02848662843448123
+phantom,random_jitter,Random jitter,medium,2,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028175664027633305
+phantom,random_jitter,Random jitter,medium,3,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02823290996143222
+phantom,random_jitter,Random jitter,medium,4,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02816155177655463
+phantom,random_jitter,Random jitter,medium,5,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02855339514952303
+phantom,random_jitter,Random jitter,medium,6,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028698324422132278
+phantom,random_jitter,Random jitter,medium,7,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028231396815203966
+phantom,random_jitter,Random jitter,medium,8,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02813650587502082
+phantom,random_jitter,Random jitter,medium,9,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02860033244521745
+phantom,random_jitter,Random jitter,medium,10,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028034831975095563
+phantom,random_jitter,Random jitter,medium,11,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028300824640541906
+phantom,random_jitter,Random jitter,medium,12,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028332510132966157
+phantom,random_jitter,Random jitter,medium,13,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028667828387168352
+phantom,random_jitter,Random jitter,medium,14,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02756464279450385
+phantom,random_jitter,Random jitter,medium,15,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028418463328732227
+phantom,random_jitter,Random jitter,medium,16,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028851079347812513
+phantom,random_jitter,Random jitter,medium,17,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028271660269907246
+phantom,random_jitter,Random jitter,medium,18,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02825856455599378
+phantom,random_jitter,Random jitter,medium,19,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028896119611405174
+phantom,random_jitter,Random jitter,medium,20,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027687724691026944
+phantom,random_jitter,Random jitter,medium,1,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.051408141371460665
+phantom,random_jitter,Random jitter,medium,2,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0561656324707895
+phantom,random_jitter,Random jitter,medium,3,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.058367052943040724
+phantom,random_jitter,Random jitter,medium,4,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05559366921827264
+phantom,random_jitter,Random jitter,medium,5,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05300014899364153
+phantom,random_jitter,Random jitter,medium,6,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05515585827301993
+phantom,random_jitter,Random jitter,medium,7,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.055989598732644155
+phantom,random_jitter,Random jitter,medium,8,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.051478596456807385
+phantom,random_jitter,Random jitter,medium,9,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05678432974646126
+phantom,random_jitter,Random jitter,medium,10,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.056410395849520754
+phantom,random_jitter,Random jitter,medium,11,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.056214548918529395
+phantom,random_jitter,Random jitter,medium,12,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05369374281250009
+phantom,random_jitter,Random jitter,medium,13,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06101339678906119
+phantom,random_jitter,Random jitter,medium,14,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05110400952854486
+phantom,random_jitter,Random jitter,medium,15,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.05546432528700494
+phantom,random_jitter,Random jitter,medium,16,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0553207615755564
+phantom,random_jitter,Random jitter,medium,17,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.052538267146161804
+phantom,random_jitter,Random jitter,medium,18,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.058066820996572385
+phantom,random_jitter,Random jitter,medium,19,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0584809997073892
+phantom,random_jitter,Random jitter,medium,20,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.052053335169864344
+phantom,random_jitter,Random jitter,medium,1,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04429380043518089
+phantom,random_jitter,Random jitter,medium,2,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04922374882393303
+phantom,random_jitter,Random jitter,medium,3,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.051941954974141114
+phantom,random_jitter,Random jitter,medium,4,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.0488143729288605
+phantom,random_jitter,Random jitter,medium,5,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04637250353560168
+phantom,random_jitter,Random jitter,medium,6,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.048258294585434625
+phantom,random_jitter,Random jitter,medium,7,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.049397434730921994
+phantom,random_jitter,Random jitter,medium,8,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04464894648112764
+phantom,random_jitter,Random jitter,medium,9,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.05094182520374276
+phantom,random_jitter,Random jitter,medium,10,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04945946942075997
+phantom,random_jitter,Random jitter,medium,11,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04949269567896501
+phantom,random_jitter,Random jitter,medium,12,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04653629336583617
+phantom,random_jitter,Random jitter,medium,13,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.05447802664336092
+phantom,random_jitter,Random jitter,medium,14,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04428577380659816
+phantom,random_jitter,Random jitter,medium,15,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.048920106654291404
+phantom,random_jitter,Random jitter,medium,16,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04864886779254921
+phantom,random_jitter,Random jitter,medium,17,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.046424976595689366
+phantom,random_jitter,Random jitter,medium,18,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.051683138291965955
+phantom,random_jitter,Random jitter,medium,19,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.05228751844137222
+phantom,random_jitter,Random jitter,medium,20,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.04522635277626408
+phantom,random_jitter,Random jitter,high,1,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9491093479082532
+phantom,random_jitter,Random jitter,high,2,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9511692194438086
+phantom,random_jitter,Random jitter,high,3,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9509863908622359
+phantom,random_jitter,Random jitter,high,4,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9508696004995504
+phantom,random_jitter,Random jitter,high,5,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9553626455485646
+phantom,random_jitter,Random jitter,high,6,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9509829551886341
+phantom,random_jitter,Random jitter,high,7,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9507937723820428
+phantom,random_jitter,Random jitter,high,8,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9499997263087007
+phantom,random_jitter,Random jitter,high,9,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9541521300874192
+phantom,random_jitter,Random jitter,high,10,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9470670517369941
+phantom,random_jitter,Random jitter,high,11,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9510489755344034
+phantom,random_jitter,Random jitter,high,12,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9498253340758545
+phantom,random_jitter,Random jitter,high,13,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9486167818788125
+phantom,random_jitter,Random jitter,high,14,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9484735582483955
+phantom,random_jitter,Random jitter,high,15,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.95083816591595
+phantom,random_jitter,Random jitter,high,16,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9488398667235307
+phantom,random_jitter,Random jitter,high,17,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9518498321326572
+phantom,random_jitter,Random jitter,high,18,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9511917705904257
+phantom,random_jitter,Random jitter,high,19,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9500616123092711
+phantom,random_jitter,Random jitter,high,20,SSIM,Type-2 NUFFT vs. Image-based,#CC6677,0.9479104242856624
+phantom,random_jitter,Random jitter,high,1,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7815975588333448
+phantom,random_jitter,Random jitter,high,2,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7479060956597023
+phantom,random_jitter,Random jitter,high,3,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7541114611084224
+phantom,random_jitter,Random jitter,high,4,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7605647196810079
+phantom,random_jitter,Random jitter,high,5,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7950458173313422
+phantom,random_jitter,Random jitter,high,6,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7629743265964514
+phantom,random_jitter,Random jitter,high,7,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7584650181680183
+phantom,random_jitter,Random jitter,high,8,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7740247645413696
+phantom,random_jitter,Random jitter,high,9,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7560318265391006
+phantom,random_jitter,Random jitter,high,10,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.736702725526122
+phantom,random_jitter,Random jitter,high,11,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7612650017250959
+phantom,random_jitter,Random jitter,high,12,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7583180515151439
+phantom,random_jitter,Random jitter,high,13,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7378185707372759
+phantom,random_jitter,Random jitter,high,14,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7577386767841608
+phantom,random_jitter,Random jitter,high,15,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7645155617489092
+phantom,random_jitter,Random jitter,high,16,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7434058117796649
+phantom,random_jitter,Random jitter,high,17,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7640203560427762
+phantom,random_jitter,Random jitter,high,18,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7398468502031644
+phantom,random_jitter,Random jitter,high,19,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7338454896182698
+phantom,random_jitter,Random jitter,high,20,SSIM,Type-1 NUFFT vs. Image-based,#DDCC77,0.7653991860463828
+phantom,random_jitter,Random jitter,high,1,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7950524858125987
+phantom,random_jitter,Random jitter,high,2,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7635847069381637
+phantom,random_jitter,Random jitter,high,3,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7662025549904115
+phantom,random_jitter,Random jitter,high,4,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7759506719712559
+phantom,random_jitter,Random jitter,high,5,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.8075338586187406
+phantom,random_jitter,Random jitter,high,6,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7774472232882881
+phantom,random_jitter,Random jitter,high,7,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.771447707568696
+phantom,random_jitter,Random jitter,high,8,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.789056170525082
+phantom,random_jitter,Random jitter,high,9,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.766403577834342
+phantom,random_jitter,Random jitter,high,10,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7549541329207524
+phantom,random_jitter,Random jitter,high,11,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7736756305975034
+phantom,random_jitter,Random jitter,high,12,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7730924026206475
+phantom,random_jitter,Random jitter,high,13,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7510135846561016
+phantom,random_jitter,Random jitter,high,14,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7726517252224128
+phantom,random_jitter,Random jitter,high,15,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7793563779507234
+phantom,random_jitter,Random jitter,high,16,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7570725375590015
+phantom,random_jitter,Random jitter,high,17,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.774750576380016
+phantom,random_jitter,Random jitter,high,18,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.751577438416726
+phantom,random_jitter,Random jitter,high,19,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7478516532375072
+phantom,random_jitter,Random jitter,high,20,SSIM,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.7835317248046778
+phantom,random_jitter,Random jitter,high,1,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027880547225824056
+phantom,random_jitter,Random jitter,high,2,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02814427820614752
+phantom,random_jitter,Random jitter,high,3,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027650595689818147
+phantom,random_jitter,Random jitter,high,4,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028030071681241643
+phantom,random_jitter,Random jitter,high,5,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027629043566315535
+phantom,random_jitter,Random jitter,high,6,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028034336650873543
+phantom,random_jitter,Random jitter,high,7,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027846434887162694
+phantom,random_jitter,Random jitter,high,8,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028082359539465754
+phantom,random_jitter,Random jitter,high,9,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027523502081193103
+phantom,random_jitter,Random jitter,high,10,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02829135675509336
+phantom,random_jitter,Random jitter,high,11,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02808158388066529
+phantom,random_jitter,Random jitter,high,12,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028317063789174195
+phantom,random_jitter,Random jitter,high,13,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02818444060130741
+phantom,random_jitter,Random jitter,high,14,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.028132300398939287
+phantom,random_jitter,Random jitter,high,15,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02801462442007061
+phantom,random_jitter,Random jitter,high,16,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02840481843610794
+phantom,random_jitter,Random jitter,high,17,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02770169987306949
+phantom,random_jitter,Random jitter,high,18,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027994728426067594
+phantom,random_jitter,Random jitter,high,19,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.027823316759546895
+phantom,random_jitter,Random jitter,high,20,RMSD,Type-2 NUFFT vs. Image-based,#CC6677,0.02755525791353932
+phantom,random_jitter,Random jitter,high,1,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06373677014293841
+phantom,random_jitter,Random jitter,high,2,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.07027952678098465
+phantom,random_jitter,Random jitter,high,3,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.07358060252906769
+phantom,random_jitter,Random jitter,high,4,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06907386586283448
+phantom,random_jitter,Random jitter,high,5,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0658078541919471
+phantom,random_jitter,Random jitter,high,6,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0679998417912333
+phantom,random_jitter,Random jitter,high,7,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06943962848215904
+phantom,random_jitter,Random jitter,high,8,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06402780298255259
+phantom,random_jitter,Random jitter,high,9,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.07115548462055843
+phantom,random_jitter,Random jitter,high,10,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0700721066069552
+phantom,random_jitter,Random jitter,high,11,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.07074959501624617
+phantom,random_jitter,Random jitter,high,12,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06692906594904105
+phantom,random_jitter,Random jitter,high,13,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.0768897973606575
+phantom,random_jitter,Random jitter,high,14,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06402506220179796
+phantom,random_jitter,Random jitter,high,15,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06951180915944583
+phantom,random_jitter,Random jitter,high,16,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06839279310405044
+phantom,random_jitter,Random jitter,high,17,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06464151620206526
+phantom,random_jitter,Random jitter,high,18,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.07271344870973437
+phantom,random_jitter,Random jitter,high,19,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.07205491081687848
+phantom,random_jitter,Random jitter,high,20,RMSD,Type-1 NUFFT vs. Image-based,#DDCC77,0.06515170814659386
+phantom,random_jitter,Random jitter,high,1,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.05999909945811391
+phantom,random_jitter,Random jitter,high,2,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06602894804095603
+phantom,random_jitter,Random jitter,high,3,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06992547415030435
+phantom,random_jitter,Random jitter,high,4,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06481066439022072
+phantom,random_jitter,Random jitter,high,5,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06281282162572015
+phantom,random_jitter,Random jitter,high,6,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.064139771146712
+phantom,random_jitter,Random jitter,high,7,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06570043312065665
+phantom,random_jitter,Random jitter,high,8,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06034979304365418
+phantom,random_jitter,Random jitter,high,9,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06863123834316713
+phantom,random_jitter,Random jitter,high,10,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.0653268152732599
+phantom,random_jitter,Random jitter,high,11,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06663296683374235
+phantom,random_jitter,Random jitter,high,12,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.062472986354776675
+phantom,random_jitter,Random jitter,high,13,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.07296550336797805
+phantom,random_jitter,Random jitter,high,14,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.059567679482224224
+phantom,random_jitter,Random jitter,high,15,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06591807936599081
+phantom,random_jitter,Random jitter,high,16,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06444056705763222
+phantom,random_jitter,Random jitter,high,17,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.061943498425979
+phantom,random_jitter,Random jitter,high,18,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.0688879750863997
+phantom,random_jitter,Random jitter,high,19,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06913778927558813
+phantom,random_jitter,Random jitter,high,20,RMSD,Type-1 NUFFT vs. Type-2 NUFFT,#807dba,0.06093703338744418

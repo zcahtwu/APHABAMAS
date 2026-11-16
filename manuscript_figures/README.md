@@ -1,6 +1,6 @@
 # Paper figures
 
-[Repository home](https://github.com/zcahtwu/APHABAMAS_temp) · [Experiments](../experiments/) · [Setup](../docs/#setup)
+[Repository home](https://github.com/zcahtwu/APHABAMAS) · [Experiments](../experiments/) · [Setup](../docs/#setup)
 
 The main results follow the two experiment phases. [Figure 7](figure7_motion_trajectories/) documents the measured and synthetic motion trajectories used in the experiments.
 

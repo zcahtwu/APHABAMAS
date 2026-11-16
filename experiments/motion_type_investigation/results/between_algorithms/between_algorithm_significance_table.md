@@ -17,6 +17,9 @@ T1 = Type-1 NUFFT; T2 = Type-2 NUFFT; image = image-based. For example, (T2 vs. 
 | Step-wise | Mild | 3.81e-06 (***; W) | 0.005 (**; W) | 2.27e-19 (***; t) |
 | Step-wise | Medium | 2.19e-09 (***; t) | 2.26e-05 (***; t) | 5.45e-15 (***; t) |
 | Step-wise | Severe | 2.20e-10 (***; t) | 1.84e-07 (***; t) | 5.24e-12 (***; t) |
+| Random jitter | Mild | 2.50e-21 (***; t) | 8.44e-17 (***; t) | 9.49e-28 (***; t) |
+| Random jitter | Medium | 7.66e-23 (***; t) | 1.01e-20 (***; t) | 7.66e-23 (***; t) |
+| Random jitter | Severe | 5.04e-24 (***; t) | 6.11e-23 (***; t) | 2.06e-18 (***; t) |
 
 ## Real-brain data — RMSD
 
@@ -31,6 +34,9 @@ T1 = Type-1 NUFFT; T2 = Type-2 NUFFT; image = image-based. For example, (T2 vs. 
 | Step-wise | Mild | 1.91e-06 (***; W) | 1.27e-19 (***; t) | 8.56e-21 (***; t) |
 | Step-wise | Medium | 1.91e-06 (***; W) | 5.77e-07 (***; t) | 3.17e-15 (***; t) |
 | Step-wise | Severe | 2.51e-09 (***; t) | 0.024 (*; t) | 2.86e-10 (***; t) |
+| Random jitter | Mild | 1.82e-20 (***; t) | 7.42e-07 (***; t) | 1.53e-24 (***; t) |
+| Random jitter | Medium | 2.86e-21 (***; t) | 1.20e-17 (***; t) | 2.14e-25 (***; t) |
+| Random jitter | Severe | 4.73e-22 (***; t) | 1.08e-20 (***; t) | 7.49e-18 (***; t) |
 
 ## Digital phantom — SSIM
 
@@ -45,6 +51,9 @@ T1 = Type-1 NUFFT; T2 = Type-2 NUFFT; image = image-based. For example, (T2 vs. 
 | Step-wise | Mild | 3.81e-06 (***; W) | 0.651 (ns; t) | 1.40e-17 (***; t) |
 | Step-wise | Medium | 1.51e-09 (***; t) | 1.38e-07 (***; t) | 1.33e-11 (***; t) |
 | Step-wise | Severe | 6.96e-10 (***; t) | 8.37e-09 (***; t) | 4.23e-07 (***; t) |
+| Random jitter | Mild | 8.53e-21 (***; t) | 1.66e-17 (***; t) | 6.74e-24 (***; t) |
+| Random jitter | Medium | 1.19e-21 (***; t) | 2.27e-20 (***; t) | 1.19e-21 (***; t) |
+| Random jitter | Severe | 1.55e-22 (***; t) | 4.82e-22 (***; t) | 1.99e-17 (***; t) |
 
 ## Digital phantom — RMSD
 
@@ -59,6 +68,9 @@ T1 = Type-1 NUFFT; T2 = Type-2 NUFFT; image = image-based. For example, (T2 vs. 
 | Step-wise | Mild | 1.91e-06 (***; W) | 2.59e-18 (***; t) | 4.32e-20 (***; t) |
 | Step-wise | Medium | 2.10e-08 (***; t) | 5.10e-04 (***; t) | 5.36e-14 (***; t) |
 | Step-wise | Severe | 3.18e-09 (***; t) | 0.012 (*; t) | 2.08e-10 (***; t) |
+| Random jitter | Mild | 4.10e-20 (***; t) | 2.95e-11 (***; t) | 4.04e-25 (***; t) |
+| Random jitter | Medium | 8.24e-21 (***; t) | 2.49e-18 (***; t) | 6.89e-26 (***; t) |
+| Random jitter | Severe | 2.36e-21 (***; t) | 1.62e-20 (***; t) | 5.78e-17 (***; t) |
 
 **Significance:** `***` p < 0.001; `**` p < 0.01; `*` p < 0.05; `ns` p ≥ 0.05.
 

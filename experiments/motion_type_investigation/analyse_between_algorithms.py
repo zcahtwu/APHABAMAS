@@ -20,11 +20,14 @@ import numpy as np
 import pandas as pd
 from scipy import stats
 
+from experiments.utils.figure_output import configure_figure_output, save_figure
+
 
 MOTION_TYPES = {
     "slow_drift": "Slow drift",
     "spikes": "Spikes",
     "stepwise": "Step-wise",
+    "random_jitter": "Random jitter",
 }
 SEVERITIES = ("low", "medium", "high")
 SCANS = ("real_brain", "phantom")
@@ -221,7 +224,8 @@ def create_normality_plot(case_data, scan, motion_type, severity):
         f"{scan}: {MOTION_TYPES[motion_type]} — {severity.capitalize()}"
     )
     figure.tight_layout(rect=(0, 0, 1, 0.95))
-    figure.savefig(
+    save_figure(
+        figure,
         NORMALITY_DIRECTORY
         / f"{scan}_{motion_type}_{severity}_normality.svg",
         dpi=300,
@@ -448,4 +452,5 @@ def main():
 
 
 if __name__ == "__main__":
+    configure_figure_output()
     main()

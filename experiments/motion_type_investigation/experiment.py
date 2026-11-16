@@ -31,7 +31,7 @@ def select_scans(motion_free_directory, selection):
 
 
 def calculate_metrics(image_based, type_1, type_2, ground_truth):
-    """Calculate metrics in the same order used by the original scripts."""
+    """Calculate pairwise SSIM and RMSD, including ground-truth comparisons when available."""
     metrics = {
         "SSIM_type1_with_type2": ssim(type_1, type_2, data_range=2),
         "SSIM_type1_with_image_based": ssim(type_1, image_based, data_range=2),
@@ -117,7 +117,7 @@ def run_experiment(
     plot_trajectory=True,
     include_repeat_directory=True,
 ):
-    """Run one motion experiment without changing its seed or call ordering."""
+    """Run each severity and repeat with seed base_seed + repeat for the selected scans."""
     working_directory = Path(working_directory)
     output_directory = Path(output_directory or working_directory / "results")
     trajectory_directory = Path(trajectory_directory or working_directory / "trajectories")

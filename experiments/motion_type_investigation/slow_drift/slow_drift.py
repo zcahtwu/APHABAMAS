@@ -2,6 +2,7 @@
 
 from pathlib import Path
 
+from experiments.utils.figure_output import configure_figure_output
 from experiments.motion_type_investigation.experiment import run_experiment
 from experiments.motion_type_investigation.slow_drift.slow_drift_trajectory import (
     DEFAULT_BASE_SEED,
@@ -47,4 +48,5 @@ def main():
 
 
 if __name__ == "__main__":
+    configure_figure_output()
     main()
