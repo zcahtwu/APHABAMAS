@@ -6,11 +6,10 @@ These modules provide consistent styling and layouts for the figure generators.
 
 | Module | Used for |
 | --- | --- |
-| [style.py](style.py) | Fonts, colours, figure width, and selected measured subjects |
-| [trajectories.py](trajectories.py) | Figure 5 trajectory loading and layout |
-| [grouped_boxplots.py](grouped_boxplots.py), [metric_grid.py](metric_grid.py) | Common metric plots |
-| [between_algorithm_boxplots.py](between_algorithm_boxplots.py) | Figures 6a and 7a |
-| [inter_algorithm_visual_comparisons.py](inter_algorithm_visual_comparisons.py) | Figures 6b/c and 7b/c |
-| [multiview_comparison.py](multiview_comparison.py) | Figure 6/7 multiview supporting information |
+| [style.py](style.py) | Fonts, grey fills, figure width, and selected measured subjects |
+| [trajectories.py](trajectories.py) | Figure 7 trajectory loading and layout |
+| [grouped_boxplots.py](grouped_boxplots.py), [metric_grid.py](metric_grid.py) | Common boxplots, legends, and metric panels |
+| [between_algorithm_boxplots.py](between_algorithm_boxplots.py) | Figure 8 pairwise-comparison SI |
+| [multiview_comparison.py](multiview_comparison.py) | Figure 8 brain and phantom multiplanar SI |
 
 Run the figure-specific entry points. Changes here can affect multiple figures.

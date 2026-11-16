@@ -16,5 +16,5 @@ FONT = {
     "font.sans-serif": ["Arial", "Liberation Sans", "DejaVu Sans"],
 }
 
-# Current revised light-to-dark algorithm palette.
-GRAYS = ("#F5F5F5", "#A6A6A6", "#606060")
+# Light-to-dark algorithm palette.
+GRAYS = ("#FFFFFF", "#B9B9B9", "#606060")

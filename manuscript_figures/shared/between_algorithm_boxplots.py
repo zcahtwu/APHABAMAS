@@ -1,4 +1,4 @@
-"""Figure 6/7 boxplots comparing each pair of simulation algorithms."""
+"""Supporting boxplots comparing each pair of simulation algorithms."""
 
 import numpy as np
 import pandas as pd
@@ -16,8 +16,8 @@ PAIRS = (
     ("Type-1 NUFFT vs. Image-based", GRAYS[1]),
     ("Type-1 NUFFT vs. Type-2 NUFFT", GRAYS[2]),
 )
-SSIM_YLIM = (0.80, 1.005)
-RMSD_YLIM = (0.00, 0.06)
+SSIM_YLIM = (0.70, 1.005)
+RMSD_YLIM = (0.00, 0.085)
 
 
 def _load(filename, scan):
@@ -34,10 +34,10 @@ def _load(filename, scan):
 def _format_axis(axis, metric, panel):
     if metric == "SSIM":
         axis.set_ylim(*SSIM_YLIM)
-        axis.yaxis.set_major_locator(MultipleLocator(0.10))
+        axis.yaxis.set_major_locator(MultipleLocator(0.05))
     else:
         axis.set_ylim(*RMSD_YLIM)
-        axis.yaxis.set_major_locator(MultipleLocator(0.03))
+        axis.yaxis.set_major_locator(MultipleLocator(0.02))
     axis.yaxis.set_major_formatter(FormatStrFormatter("%.2f"))
 
 
@@ -85,4 +85,8 @@ def create_figure(scan, output_path, panel_label=None, show_samples=False):
         ylabels=("Pairwise SSIM", "Pairwise RMSD"),
         panel_label=panel_label,
         show_samples=show_samples,
+        width=260 / 25.4,
+        height=165 / 25.4,
+        bottom=0.095,
+        label_y=0.035,
     )

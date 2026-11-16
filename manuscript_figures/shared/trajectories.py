@@ -1,4 +1,4 @@
-"""Shared loading and plotting helpers for Figure 5 trajectories."""
+"""Shared loading and plotting helpers for motion trajectory figures."""
 
 import json
 
@@ -7,6 +7,7 @@ import numpy as np
 from matplotlib.lines import Line2D
 from matplotlib.ticker import MultipleLocator
 
+from experiments.utils.figure_output import save_figure
 from manuscript_figures.shared.style import FONT
 
 
@@ -92,7 +93,8 @@ def add_header(figure, panel_label=None, legend_y=0.985):
                for label, color in zip(COMPONENTS, COLORS)]
     figure.legend(handles=handles, loc="upper center", bbox_to_anchor=(0.56, legend_y),
                   ncol=3, frameon=False, title="Motion component",
-                  title_fontsize=13, handlelength=2.2, columnspacing=1.2)
+                  title_fontsize=16, labelspacing=0.2,
+                  handlelength=2.2, columnspacing=1.2)
     if panel_label:
         figure.text(0.015, 0.975, panel_label, ha="left", va="top",
                     fontsize=15, fontweight="bold")
@@ -100,6 +102,6 @@ def add_header(figure, panel_label=None, legend_y=0.985):
 
 def save(figure, output_path):
     output_path.parent.mkdir(parents=True, exist_ok=True)
-    figure.savefig(output_path, dpi=300)
+    save_figure(figure, output_path, dpi=300)
     plt.close(figure)
     return output_path

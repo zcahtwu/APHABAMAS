@@ -1,11 +1,11 @@
-"""Minimal primitives shared by the Figure 6--8 grouped boxplots."""
+"""Boxplot and legend helpers for the quantitative figures."""
 
 import numpy as np
 from matplotlib.colors import to_rgba
 from matplotlib.patches import Patch
 
 
-BACKGROUNDS = ("#FFFFFF", "#F3F3F3", "#E6E6E6")
+BACKGROUNDS = ("#FFFFFF", "#FAFAFA", "#F2F2F2")
 OFFSETS = (-0.24, 0.0, 0.24)
 
 
@@ -17,9 +17,11 @@ def draw_boxes(
     category_column,
     series_column,
     show_samples=False,
+    show_fliers=True,
+    backgrounds=BACKGROUNDS,
 ):
     """Draw three series for each category in a prepared data subset."""
-    for index, background in enumerate(BACKGROUNDS):
+    for index, background in enumerate(backgrounds):
         axis.axvspan(index - 0.5, index + 0.5, color=background, zorder=-2)
     for boundary in (0.5, 1.5):
         axis.axvline(boundary, color="0.60", ls="--", lw=0.7, zorder=-1)
@@ -37,7 +39,7 @@ def draw_boxes(
                 widths=0.20,
                 patch_artist=True,
                 whis=1.5,
-                showfliers=not show_samples,
+                showfliers=show_fliers and not show_samples,
                 boxprops={"facecolor": color, "edgecolor": "black"},
                 medianprops={"color": "black"},
                 whiskerprops={"color": "black", "linewidth": 0.7},
@@ -73,3 +75,13 @@ def legend_handles(labels, series):
         Patch(facecolor=to_rgba(color), edgecolor="black", label=label)
         for label, (_, color) in zip(labels, series)
     ]
+
+
+def add_legend(figure, labels, series, *, y=0.95):
+    """Add the common three-series legend above the metric panels."""
+    return figure.legend(
+        handles=legend_handles(labels, series), loc="lower center",
+        ncol=3, frameon=False, bbox_to_anchor=(0.5425, y),
+        columnspacing=2.5, fontsize=10, handlelength=2.4,
+        handleheight=1.15, handletextpad=0.5, borderpad=0.2,
+    )

@@ -8,6 +8,7 @@ import numpy as np
 from matplotlib.colorbar import ColorbarBase
 from matplotlib.colors import Normalize
 
+from experiments.utils.figure_output import save_figure
 from manuscript_figures.shared.style import FONT, SUBJECTS
 
 
@@ -110,6 +111,6 @@ def create_multiview_figure(output_path, results, filenames, image_titles,
             width = (right - left) * 0.78
             _colorbar(figure, ((left + right - width) / 2, 0.055, width, 0.013),
                       title, limits)
-        figure.savefig(output_path, dpi=1200)
+        save_figure(figure, output_path, dpi=1200)
         plt.close(figure)
     return output_path
